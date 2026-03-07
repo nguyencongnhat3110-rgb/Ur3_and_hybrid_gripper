@@ -1,0 +1,151 @@
+id,label,category,rigidity_score,texture_score,description
+VisGel_Real_0001,Denim_Jeans_1,Fabrics,11,95,"Highly deformable, high friction"
+VisGel_Real_0002,Denim_Jeans_2,Fabrics,14,98,"Highly deformable, high friction"
+VisGel_Real_0003,Denim_Jeans_3,Fabrics,10,90,"Highly deformable, high friction"
+VisGel_Real_0004,Denim_Jeans_4,Fabrics,13,99,"Highly deformable, high friction"
+VisGel_Real_0005,Denim_Jeans_5,Fabrics,8,98,"Highly deformable, high friction"
+VisGel_Real_0006,Wool_Coat_1,Fabrics,11,99,"Highly deformable, high friction"
+VisGel_Real_0007,Wool_Coat_2,Fabrics,14,91,"Highly deformable, high friction"
+VisGel_Real_0008,Wool_Coat_3,Fabrics,7,91,"Highly deformable, high friction"
+VisGel_Real_0009,Wool_Coat_4,Fabrics,8,99,"Highly deformable, high friction"
+VisGel_Real_0010,Wool_Coat_5,Fabrics,12,97,"Highly deformable, high friction"
+VisGel_Real_0011,Cotton_Towel_1,Fabrics,10,90,"Highly deformable, high friction"
+VisGel_Real_0012,Cotton_Towel_2,Fabrics,8,91,"Highly deformable, high friction"
+VisGel_Real_0013,Cotton_Towel_3,Fabrics,6,93,"Highly deformable, high friction"
+VisGel_Real_0014,Cotton_Towel_4,Fabrics,12,96,"Highly deformable, high friction"
+VisGel_Real_0015,Cotton_Towel_5,Fabrics,10,95,"Highly deformable, high friction"
+VisGel_Real_0016,Nylon_Bag_1,Fabrics,12,91,"Highly deformable, high friction"
+VisGel_Real_0017,Nylon_Bag_2,Fabrics,7,91,"Highly deformable, high friction"
+VisGel_Real_0018,Nylon_Bag_3,Fabrics,13,91,"Highly deformable, high friction"
+VisGel_Real_0019,Nylon_Bag_4,Fabrics,10,97,"Highly deformable, high friction"
+VisGel_Real_0020,Nylon_Bag_5,Fabrics,14,94,"Highly deformable, high friction"
+VisGel_Real_0021,Silk_Scarf_1,Fabrics,6,91,"Highly deformable, high friction"
+VisGel_Real_0022,Silk_Scarf_2,Fabrics,5,97,"Highly deformable, high friction"
+VisGel_Real_0023,Silk_Scarf_3,Fabrics,6,99,"Highly deformable, high friction"
+VisGel_Real_0024,Silk_Scarf_4,Fabrics,7,95,"Highly deformable, high friction"
+VisGel_Real_0025,Silk_Scarf_5,Fabrics,7,95,"Highly deformable, high friction"
+VisGel_Real_0026,Cracker_Box_1,YCB_Food,26,64,Deformable packaging or soft organic
+VisGel_Real_0027,Cracker_Box_2,YCB_Food,30,57,Deformable packaging or soft organic
+VisGel_Real_0028,Cracker_Box_3,YCB_Food,30,59,Deformable packaging or soft organic
+VisGel_Real_0029,Cracker_Box_4,YCB_Food,33,59,Deformable packaging or soft organic
+VisGel_Real_0030,Cracker_Box_5,YCB_Food,29,61,Deformable packaging or soft organic
+VisGel_Real_0031,Sugar_Box_1,YCB_Food,32,61,Deformable packaging or soft organic
+VisGel_Real_0032,Sugar_Box_2,YCB_Food,31,62,Deformable packaging or soft organic
+VisGel_Real_0033,Sugar_Box_3,YCB_Food,33,63,Deformable packaging or soft organic
+VisGel_Real_0034,Sugar_Box_4,YCB_Food,26,55,Deformable packaging or soft organic
+VisGel_Real_0035,Sugar_Box_5,YCB_Food,33,61,Deformable packaging or soft organic
+VisGel_Real_0036,Mustard_Bottle_1,YCB_Food,27,56,Deformable packaging or soft organic
+VisGel_Real_0037,Mustard_Bottle_2,YCB_Food,30,63,Deformable packaging or soft organic
+VisGel_Real_0038,Mustard_Bottle_3,YCB_Food,33,62,Deformable packaging or soft organic
+VisGel_Real_0039,Mustard_Bottle_4,YCB_Food,30,61,Deformable packaging or soft organic
+VisGel_Real_0040,Mustard_Bottle_5,YCB_Food,33,62,Deformable packaging or soft organic
+VisGel_Real_0041,Tomato_Soup_Can_1,YCB_Food,26,62,Deformable packaging or soft organic
+VisGel_Real_0042,Tomato_Soup_Can_2,YCB_Food,34,55,Deformable packaging or soft organic
+VisGel_Real_0043,Tomato_Soup_Can_3,YCB_Food,28,64,Deformable packaging or soft organic
+VisGel_Real_0044,Tomato_Soup_Can_4,YCB_Food,25,63,Deformable packaging or soft organic
+VisGel_Real_0045,Tomato_Soup_Can_5,YCB_Food,34,57,Deformable packaging or soft organic
+VisGel_Real_0046,Banana_1,YCB_Food,30,59,Deformable packaging or soft organic
+VisGel_Real_0047,Banana_2,YCB_Food,28,59,Deformable packaging or soft organic
+VisGel_Real_0048,Banana_3,YCB_Food,31,55,Deformable packaging or soft organic
+VisGel_Real_0049,Banana_4,YCB_Food,31,61,Deformable packaging or soft organic
+VisGel_Real_0050,Banana_5,YCB_Food,25,63,Deformable packaging or soft organic
+VisGel_Real_0051,Apple_1,YCB_Food,26,55,Deformable packaging or soft organic
+VisGel_Real_0052,Apple_2,YCB_Food,29,59,Deformable packaging or soft organic
+VisGel_Real_0053,Apple_3,YCB_Food,31,59,Deformable packaging or soft organic
+VisGel_Real_0054,Apple_4,YCB_Food,28,59,Deformable packaging or soft organic
+VisGel_Real_0055,Apple_5,YCB_Food,31,64,Deformable packaging or soft organic
+VisGel_Real_0056,Lemon_1,YCB_Food,26,58,Deformable packaging or soft organic
+VisGel_Real_0057,Lemon_2,YCB_Food,27,60,Deformable packaging or soft organic
+VisGel_Real_0058,Lemon_3,YCB_Food,29,64,Deformable packaging or soft organic
+VisGel_Real_0059,Lemon_4,YCB_Food,31,63,Deformable packaging or soft organic
+VisGel_Real_0060,Lemon_5,YCB_Food,31,57,Deformable packaging or soft organic
+VisGel_Real_0061,Mug_1,YCB_Kitchen,91,33,Rigid Ceramic/Metal/Glass
+VisGel_Real_0062,Mug_2,YCB_Kitchen,92,26,Rigid Ceramic/Metal/Glass
+VisGel_Real_0063,Mug_3,YCB_Kitchen,86,27,Rigid Ceramic/Metal/Glass
+VisGel_Real_0064,Mug_4,YCB_Kitchen,86,34,Rigid Ceramic/Metal/Glass
+VisGel_Real_0065,Mug_5,YCB_Kitchen,90,31,Rigid Ceramic/Metal/Glass
+VisGel_Real_0066,Bowl_1,YCB_Kitchen,86,27,Rigid Ceramic/Metal/Glass
+VisGel_Real_0067,Bowl_2,YCB_Kitchen,86,31,Rigid Ceramic/Metal/Glass
+VisGel_Real_0068,Bowl_3,YCB_Kitchen,88,28,Rigid Ceramic/Metal/Glass
+VisGel_Real_0069,Bowl_4,YCB_Kitchen,88,31,Rigid Ceramic/Metal/Glass
+VisGel_Real_0070,Bowl_5,YCB_Kitchen,86,27,Rigid Ceramic/Metal/Glass
+VisGel_Real_0071,Plate_1,YCB_Kitchen,91,25,Rigid Ceramic/Metal/Glass
+VisGel_Real_0072,Plate_2,YCB_Kitchen,92,31,Rigid Ceramic/Metal/Glass
+VisGel_Real_0073,Plate_3,YCB_Kitchen,87,32,Rigid Ceramic/Metal/Glass
+VisGel_Real_0074,Plate_4,YCB_Kitchen,91,31,Rigid Ceramic/Metal/Glass
+VisGel_Real_0075,Plate_5,YCB_Kitchen,85,29,Rigid Ceramic/Metal/Glass
+VisGel_Real_0076,Spatula_1,YCB_Kitchen,94,25,Rigid Ceramic/Metal/Glass
+VisGel_Real_0077,Spatula_2,YCB_Kitchen,89,29,Rigid Ceramic/Metal/Glass
+VisGel_Real_0078,Spatula_3,YCB_Kitchen,90,26,Rigid Ceramic/Metal/Glass
+VisGel_Real_0079,Spatula_4,YCB_Kitchen,90,31,Rigid Ceramic/Metal/Glass
+VisGel_Real_0080,Spatula_5,YCB_Kitchen,86,34,Rigid Ceramic/Metal/Glass
+VisGel_Real_0081,Knife_1,YCB_Kitchen,94,30,Rigid Ceramic/Metal/Glass
+VisGel_Real_0082,Knife_2,YCB_Kitchen,90,34,Rigid Ceramic/Metal/Glass
+VisGel_Real_0083,Knife_3,YCB_Kitchen,94,32,Rigid Ceramic/Metal/Glass
+VisGel_Real_0084,Knife_4,YCB_Kitchen,94,27,Rigid Ceramic/Metal/Glass
+VisGel_Real_0085,Knife_5,YCB_Kitchen,86,32,Rigid Ceramic/Metal/Glass
+VisGel_Real_0086,Fork_1,YCB_Kitchen,89,32,Rigid Ceramic/Metal/Glass
+VisGel_Real_0087,Fork_2,YCB_Kitchen,88,27,Rigid Ceramic/Metal/Glass
+VisGel_Real_0088,Fork_3,YCB_Kitchen,92,27,Rigid Ceramic/Metal/Glass
+VisGel_Real_0089,Fork_4,YCB_Kitchen,87,34,Rigid Ceramic/Metal/Glass
+VisGel_Real_0090,Fork_5,YCB_Kitchen,85,27,Rigid Ceramic/Metal/Glass
+VisGel_Real_0091,Spoon_1,YCB_Kitchen,91,31,Rigid Ceramic/Metal/Glass
+VisGel_Real_0092,Spoon_2,YCB_Kitchen,88,33,Rigid Ceramic/Metal/Glass
+VisGel_Real_0093,Spoon_3,YCB_Kitchen,87,28,Rigid Ceramic/Metal/Glass
+VisGel_Real_0094,Spoon_4,YCB_Kitchen,88,31,Rigid Ceramic/Metal/Glass
+VisGel_Real_0095,Spoon_5,YCB_Kitchen,91,30,Rigid Ceramic/Metal/Glass
+VisGel_Real_0096,Power_Drill_1,YCB_Tools,96,48,Hard Metal/Plastic combo
+VisGel_Real_0097,Power_Drill_2,YCB_Tools,91,50,Hard Metal/Plastic combo
+VisGel_Real_0098,Power_Drill_3,YCB_Tools,93,48,Hard Metal/Plastic combo
+VisGel_Real_0099,Power_Drill_4,YCB_Tools,97,46,Hard Metal/Plastic combo
+VisGel_Real_0100,Power_Drill_5,YCB_Tools,95,50,Hard Metal/Plastic combo
+VisGel_Real_0101,Hammer_1,YCB_Tools,92,48,Hard Metal/Plastic combo
+VisGel_Real_0102,Hammer_2,YCB_Tools,94,49,Hard Metal/Plastic combo
+VisGel_Real_0103,Hammer_3,YCB_Tools,91,54,Hard Metal/Plastic combo
+VisGel_Real_0104,Hammer_4,YCB_Tools,96,49,Hard Metal/Plastic combo
+VisGel_Real_0105,Hammer_5,YCB_Tools,91,52,Hard Metal/Plastic combo
+VisGel_Real_0106,Screwdriver_1,YCB_Tools,99,51,Hard Metal/Plastic combo
+VisGel_Real_0107,Screwdriver_2,YCB_Tools,92,47,Hard Metal/Plastic combo
+VisGel_Real_0108,Screwdriver_3,YCB_Tools,91,52,Hard Metal/Plastic combo
+VisGel_Real_0109,Screwdriver_4,YCB_Tools,95,54,Hard Metal/Plastic combo
+VisGel_Real_0110,Screwdriver_5,YCB_Tools,97,52,Hard Metal/Plastic combo
+VisGel_Real_0111,Adjustable_Wrench_1,YCB_Tools,92,47,Hard Metal/Plastic combo
+VisGel_Real_0112,Adjustable_Wrench_2,YCB_Tools,96,50,Hard Metal/Plastic combo
+VisGel_Real_0113,Adjustable_Wrench_3,YCB_Tools,98,47,Hard Metal/Plastic combo
+VisGel_Real_0114,Adjustable_Wrench_4,YCB_Tools,91,51,Hard Metal/Plastic combo
+VisGel_Real_0115,Adjustable_Wrench_5,YCB_Tools,99,51,Hard Metal/Plastic combo
+VisGel_Real_0116,Scissors_1,YCB_Tools,90,50,Hard Metal/Plastic combo
+VisGel_Real_0117,Scissors_2,YCB_Tools,90,46,Hard Metal/Plastic combo
+VisGel_Real_0118,Scissors_3,YCB_Tools,99,52,Hard Metal/Plastic combo
+VisGel_Real_0119,Scissors_4,YCB_Tools,98,49,Hard Metal/Plastic combo
+VisGel_Real_0120,Scissors_5,YCB_Tools,93,49,Hard Metal/Plastic combo
+VisGel_Real_0121,Padlock_1,YCB_Tools,91,49,Hard Metal/Plastic combo
+VisGel_Real_0122,Padlock_2,YCB_Tools,93,54,Hard Metal/Plastic combo
+VisGel_Real_0123,Padlock_3,YCB_Tools,93,52,Hard Metal/Plastic combo
+VisGel_Real_0124,Padlock_4,YCB_Tools,90,47,Hard Metal/Plastic combo
+VisGel_Real_0125,Padlock_5,YCB_Tools,96,54,Hard Metal/Plastic combo
+VisGel_Real_0126,Marker_1,Stationery,58,48,Lightweight Plastic/Paper
+VisGel_Real_0127,Marker_2,Stationery,60,45,Lightweight Plastic/Paper
+VisGel_Real_0128,Marker_3,Stationery,56,47,Lightweight Plastic/Paper
+VisGel_Real_0129,Marker_4,Stationery,56,49,Lightweight Plastic/Paper
+VisGel_Real_0130,Marker_5,Stationery,58,50,Lightweight Plastic/Paper
+VisGel_Real_0131,Pen_1,Stationery,63,53,Lightweight Plastic/Paper
+VisGel_Real_0132,Pen_2,Stationery,59,48,Lightweight Plastic/Paper
+VisGel_Real_0133,Pen_3,Stationery,60,53,Lightweight Plastic/Paper
+VisGel_Real_0134,Pen_4,Stationery,61,45,Lightweight Plastic/Paper
+VisGel_Real_0135,Pen_5,Stationery,57,48,Lightweight Plastic/Paper
+VisGel_Real_0136,Notebook_1,Stationery,59,51,Lightweight Plastic/Paper
+VisGel_Real_0137,Notebook_2,Stationery,57,48,Lightweight Plastic/Paper
+VisGel_Real_0138,Notebook_3,Stationery,62,47,Lightweight Plastic/Paper
+VisGel_Real_0139,Notebook_4,Stationery,60,52,Lightweight Plastic/Paper
+VisGel_Real_0140,Notebook_5,Stationery,59,54,Lightweight Plastic/Paper
+VisGel_Real_0141,Stapler_1,Stationery,60,47,Lightweight Plastic/Paper
+VisGel_Real_0142,Stapler_2,Stationery,63,47,Lightweight Plastic/Paper
+VisGel_Real_0143,Stapler_3,Stationery,64,45,Lightweight Plastic/Paper
+VisGel_Real_0144,Stapler_4,Stationery,56,51,Lightweight Plastic/Paper
+VisGel_Real_0145,Stapler_5,Stationery,55,49,Lightweight Plastic/Paper
+VisGel_Real_0146,Scissors_1,Stationery,64,45,Lightweight Plastic/Paper
+VisGel_Real_0147,Scissors_2,Stationery,60,45,Lightweight Plastic/Paper
+VisGel_Real_0148,Scissors_3,Stationery,58,48,Lightweight Plastic/Paper
+VisGel_Real_0149,Scissors_4,Stationery,56,48,Lightweight Plastic/Paper
+VisGel_Real_0150,Scissors_5,Stationery,64,46,Lightweight Plastic/Paper

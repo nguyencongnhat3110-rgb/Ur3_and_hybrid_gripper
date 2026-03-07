@@ -1,0 +1,274 @@
+category,material,mass,deformability,fragility
+Adhesive tape,plastic,35.3,50.0,50.0
+Alarm clock,plastic,50.0,32.4,50.0
+Apple,unknown,50.0,50.7,50.6
+Backpack,fabric,65.8,60.5,49.4
+Ball,plastic,50.0,46.8,50.0
+Balloon,plastic,35.3,64.9,61.7
+Banana,unknown,50.0,62.0,54.5
+Baseball bat,wood,64.0,41.6,29.2
+Baseball glove,plastic,72.8,46.7,50.0
+Bathroom accessory,plastic,67.5,50.0,59.1
+Bathroom cabinet,wood,61.2,31.0,51.3
+Bathtub,steel,85.6,40.8,40.0
+Bed,fabric,60.2,49.0,50.0
+Beer,glass,64.3,28.3,50.0
+Beetle,glass,50.0,50.0,50.0
+Bell pepper,food,50.0,26.4,43.7
+Belt,fabric,50.0,50.0,32.0
+Bicycle,metal,73.9,50.0,50.0
+Bicycle helmet,plastic,51.9,42.5,46.0
+Blender,plastic,69.9,34.8,50.0
+Book,unknown,54.3,51.5,45.8
+Bookcase,wood,67.0,35.9,40.7
+Boot,leather,53.2,50.0,50.0
+Bottle,plastic,50.0,46.0,50.7
+Bottle opener,metal,82.6,33.7,52.6
+Bowl,ceramic,51.7,41.0,54.3
+Box,paper,60.9,47.3,50.0
+Box of Macaroni & Cheese,paper,50.0,64.5,50.0
+Bread,unknown,42.5,65.0,50.0
+Briefcase,fabric,69.9,50.0,50.0
+Cabinetry,wood,69.9,48.7,37.6
+Cake,food,50.0,44.9,66.8
+Calculator,plastic,52.1,39.7,55.2
+Camera,plastic,60.6,50.0,59.3
+Can opener,unknown,50.0,39.4,46.1
+Candle,wax,50.0,46.7,50.0
+Candy,food,45.0,64.1,50.0
+Carrot,food,38.6,50.0,33.7
+Cassette deck,plastic,82.0,38.0,60.0
+Chair,wood,69.9,40.3,47.6
+Cheese,food,58.7,65.9,69.1
+Chest of drawers,wood,50.0,41.5,35.7
+Chopsticks,unknown,42.6,54.9,53.3
+Christmas tree,plastic,59.5,50.0,46.4
+Clock,metal,48.6,40.9,51.6
+Closet,wood,82.5,35.2,32.3
+Clothing,unknown,50.0,59.4,34.6
+Coat,fabric,59.0,57.2,30.4
+Coffee,metal,50.0,51.1,42.8
+Coffee cup,ceramic,50.0,38.9,50.0
+Coffee table,wood,69.9,45.5,50.0
+Coffeemaker,plastic,50.4,41.4,50.0
+Coin,metal,41.9,50.0,15.8
+Computer keyboard,unknown,56.0,44.6,50.0
+Computer monitor,plastic,74.6,41.0,62.6
+Computer mouse,unknown,45.9,38.4,50.0
+Container,plastic,50.0,46.6,50.0
+Cookie,unknown,44.2,63.4,54.8
+Couch,fabric,50.0,60.2,45.3
+Countertop,wood,68.6,37.8,42.6
+Cream,plastic,50.0,50.0,50.0
+Cucumber,food,38.0,53.0,50.0
+Cupboard,wood,50.0,39.6,50.0
+Curtain,fabric,39.0,59.6,44.8
+Cutting board,wood,61.0,50.0,35.2
+Desk,wood,55.2,33.8,34.4
+Dice,unknown,37.1,50.0,32.1
+Digital clock,unknown,63.2,50.0,48.6
+Dishwasher,metal,69.9,44.2,35.5
+Dog bed,fabric,58.0,62.1,39.2
+Doll,fabric,50.0,64.0,44.1
+Door,steel,70.4,30.5,26.7
+Door handle,metal,50.0,28.9,50.0
+Doughnut,food,53.9,71.3,59.1
+Drawer,wood,67.6,40.2,33.3
+Dress,fabric,46.5,50.0,41.3
+Drum,plastic,83.0,50.0,60.1
+Duck,unknown,71.5,43.7,46.2
+Dumbbell,metal,67.3,29.4,25.1
+Earrings,metal,35.3,42.2,50.0
+Egg (Food),food,39.8,50.0,50.0
+Envelope,paper,38.6,58.6,37.2
+Eraser,rubber,28.6,64.8,50.0
+Face powder,plastic,40.6,49.4,50.8
+Facial tissue holder,paper,42.7,62.5,50.0
+Filing cabinet,wood,75.5,33.7,53.3
+Fireplace,unknown,72.4,28.6,26.6
+Flag,paper,41.3,50.0,41.1
+Flashlight,metal,45.5,44.8,38.0
+Flower,unknown,44.6,52.6,58.4
+Flowerpot,ceramic,54.8,44.3,62.8
+Flying disc,metal,50.0,50.0,23.6
+Food,ceramic,50.0,60.6,63.7
+Food processor,metal,69.2,50.0,75.8
+Football,fabric,50.0,50.8,50.0
+Football helmet,plastic,72.4,44.5,33.7
+Footwear,fabric,50.0,52.6,34.8
+Fork,metal,41.7,50.0,44.5
+Fruit,food,45.2,71.7,50.0
+Frying pan,metal,69.0,39.6,50.0
+Game controller/pad,unknown,50.0,38.8,50.0
+Gas stove,metal,59.3,38.8,50.0
+Glasses,glass,50.0,57.7,59.2
+Glove,fabric,44.0,48.3,34.0
+Goggles,plastic,33.1,50.0,52.8
+Golf ball,ceramic,43.4,21.1,33.1
+Guitar,wood,71.3,32.5,49.7
+Hair dryer,plastic,64.3,28.3,50.0
+Hair spray,plastic,50.0,45.8,47.2
+Hammer,metal,67.3,16.7,20.0
+Handbag,fabric,54.9,64.5,31.6
+Hat,fabric,41.9,50.0,46.2
+Headphones,plastic,50.0,49.9,51.8
+Heater,plastic,50.0,50.0,50.0
+Helmet,plastic,57.6,33.6,36.1
+High heels,leather,60.2,45.4,44.4
+House/Car Key,unknown,41.6,46.5,32.8
+Houseplant,wood,69.9,50.0,50.0
+Humidifier,plastic,50.0,24.0,50.0
+Ice cream,plastic,69.9,64.0,50.0
+Infant bed,wood,70.2,2.1,31.3
+Jacket,fabric,53.1,50.1,46.4
+Jeans,fabric,50.0,50.0,50.0
+Jug,plastic,50.0,46.0,50.0
+Juice,unknown,53.6,64.5,22.0
+Kettle,metal,64.2,43.5,47.2
+Kitchen & dining room table,wood,63.2,26.9,49.3
+Kitchen knife,unknown,57.6,40.6,36.0
+Kitchen utensil,plastic,39.7,50.0,37.4
+Kitchenware,metal,50.0,30.8,36.1
+Knife,metal,48.2,50.0,38.8
+Ladle,metal,28.2,38.5,45.4
+Lamp,metal,65.6,38.3,53.0
+Lantern,metal,50.0,29.5,50.0
+Laptop,plastic,57.1,45.2,52.6
+Laptop charger,plastic,50.0,50.0,50.0
+Lemon,food,41.0,64.5,50.0
+Light bulb,glass,60.1,50.0,66.8
+Light switch,plastic,32.6,45.5,36.8
+Lipstick,plastic,30.5,50.9,50.0
+Loveseat,leather,70.0,50.0,47.2
+Luggage and bags,fabric,64.7,54.0,46.4
+Measuring cup,plastic,50.0,50.0,50.0
+Mechanical fan,metal,60.0,44.4,64.0
+Microwave oven,metal,50.0,33.6,50.0
+Milk,paper,50.0,50.4,53.4
+Mirror,glass,50.0,43.4,60.1
+Mixer,metal,51.0,33.0,50.0
+Mixing bowl,metal,45.6,34.6,38.3
+Mobile phone,plastic,50.0,36.4,50.0
+Motorcycle,plastic,65.6,37.8,63.8
+Mouse,plastic,50.0,50.0,50.8
+Muffin,food,35.9,50.0,66.8
+Mug,ceramic,50.0,39.4,62.7
+Musical keyboard,plastic,69.6,50.0,50.5
+Necklace,metal,36.1,64.0,50.0
+Nightstand,wood,50.0,50.0,50.0
+Orange,unknown,55.3,50.0,50.0
+Oven,metal,69.9,31.1,38.7
+Owl,plastic,56.4,25.4,54.0
+Paper,unknown,43.0,64.1,50.0
+Paper towel,unknown,50.0,64.9,50.0
+Pear,unknown,50.0,50.0,50.0
+Pen,plastic,36.8,45.2,45.5
+Pencil,wood,35.1,50.0,57.8
+Pencil case,plastic,57.5,50.0,44.7
+Pencil sharpener,plastic,42.6,50.0,50.0
+Perfume,glass,52.8,46.1,57.0
+Piano,wood,68.2,50.0,50.0
+Picnic basket,wood,50.0,60.2,50.8
+Picture frame,glass,55.8,50.0,56.6
+Pillow,fabric,50.0,58.0,39.8
+Pineapple,food,50.0,44.8,30.3
+Pitcher (Container),plastic,61.2,31.1,46.5
+Pizza,food,30.5,60.0,50.0
+Plastic bag,unknown,39.3,59.3,50.0
+Plate,ceramic,55.9,39.2,57.0
+PlayStation,plastic,64.9,42.7,60.0
+Popcorn,unknown,38.0,65.3,50.0
+Poster,paper,50.0,50.0,41.2
+Power plugs and sockets,plastic,50.0,50.0,43.4
+Pressure cooker,metal,68.1,38.9,50.0
+Printer,plastic,73.6,34.0,57.1
+Refrigerator,metal,81.2,38.5,27.5
+Remote control,unknown,47.2,45.9,50.0
+Ring,metal,41.7,47.8,39.6
+Ruler,plastic,35.3,48.4,51.4
+Salt and pepper shakers,glass,50.0,44.0,50.0
+Sandal,fabric,50.5,52.1,39.2
+Saucer,ceramic,50.6,31.5,50.0
+Scale,metal,50.0,24.9,50.0
+Scarf,unknown,50.0,50.9,43.6
+Scissors,metal,50.0,47.4,46.2
+Screwdriver,metal,50.0,50.0,41.6
+Sculpture,unknown,42.0,50.0,75.4
+Serving tray,plastic,64.5,47.5,50.0
+Shelf,wood,60.4,50.0,43.0
+Shirt,fabric,36.9,57.0,40.2
+Shorts,fabric,35.6,77.2,21.0
+Sink,metal,77.8,41.3,47.2
+Skateboard,wood,51.4,37.1,39.0
+Slow cooker,metal,89.7,31.7,50.6
+Snack,plastic,38.4,60.9,50.0
+Soap dispenser,plastic,40.1,50.0,50.0
+Sock,unknown,37.2,59.4,27.2
+Spatula,plastic,49.6,50.0,41.4
+Spoon,metal,40.5,50.0,36.6
+Squash (Plant),food,66.4,26.4,35.9
+Stapler,plastic,48.1,45.5,50.0
+Stationary bicycle,metal,67.8,50.0,54.0
+Stool,wood,50.0,46.1,50.0
+Strawberry,food,35.1,50.0,56.2
+Suit,fabric,50.0,72.1,27.8
+Suitcase,plastic,82.1,40.1,42.2
+Sun hat,fabric,30.7,50.0,30.2
+Sunglasses,plastic,40.7,50.0,54.0
+Swim cap,fabric,50.0,65.6,42.6
+Swimwear,fabric,49.9,50.0,35.7
+Table,wood,50.0,45.5,50.0
+Table tennis racket,plastic,63.2,59.5,50.0
+Tablet computer,plastic,50.0,38.8,50.0
+Tap,metal,50.0,50.0,47.4
+Tea,ceramic,50.0,51.0,47.7
+Tea cup,ceramic,50.0,48.8,52.1
+Teapot,ceramic,69.9,50.0,68.9
+Teddy bear,fabric,50.0,62.6,44.2
+Telephone,plastic,52.1,39.9,58.0
+Television,glass,51.3,36.4,51.9
+Tennis ball,fabric,46.5,44.2,18.6
+Tennis racket,plastic,50.0,50.0,35.7
+Tiara,metal,39.6,50.0,36.5
+Tin can,unknown,50.0,45.6,44.0
+Toaster,metal,67.1,41.5,48.7
+Toilet,glass,56.2,29.2,40.2
+Toilet paper,paper,50.0,78.9,50.0
+Tomato,food,59.2,52.1,55.8
+Tool,plastic,50.0,39.4,16.0
+Toothbrush,plastic,16.4,63.9,50.0
+Torch,plastic,61.1,35.7,34.3
+Towel,unknown,43.6,53.6,36.4
+Toy,plastic,50.0,51.5,46.4
+Treadmill,plastic,64.8,32.4,40.8
+Tripod,ceramic,54.8,53.4,44.4
+Trousers,fabric,50.0,50.0,28.7
+Umbrella,fabric,57.2,62.6,47.9
+Vase,ceramic,62.8,33.6,65.0
+Violin,wood,87.7,61.5,66.6
+Volleyball (Ball),fabric,51.7,48.1,26.1
+Wall clock,wood,60.0,38.0,57.6
+Wallet,fabric,50.0,51.1,40.8
+Wardrobe,plastic,57.4,36.0,36.9
+Washing machine,plastic,59.8,50.0,35.6
+Waste container,plastic,69.9,50.0,50.0
+Watch,metal,47.4,50.0,48.6
+Water glass,unknown,50.0,39.3,60.1
+Watermelon,food,69.9,50.0,50.0
+Wheelchair,metal,67.6,30.9,50.0
+Whisk,metal,48.3,50.0,46.4
+Whiteboard,wood,62.5,53.2,44.1
+Window,glass,70.4,50.0,65.0
+Wine,glass,57.0,34.8,72.1
+Wine glass,unknown,50.0,31.4,50.0
+Wrench,plastic,52.4,18.3,50.0
+XBox,metal,50.0,50.0,50.0
+basketball,plastic,68.7,38.8,15.8
+blanket,unknown,50.0,56.1,28.4
+boxing gloves,fabric,50.0,52.2,28.9
+condiment,unknown,35.3,50.0,50.0
+glove,fabric,43.0,64.5,32.1
+pottery,ceramic,50.0,41.0,50.0
+soccer ball,fabric,61.0,47.2,23.6
+sofa,fabric,81.6,51.5,44.2
+yoga mat,fabric,50.0,50.0,36.9

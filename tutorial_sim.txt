@@ -1,0 +1,39 @@
+1.Terminal 1: Khởi động môi trường Gazebo
+
+source ~/pick_and_place_ur5/devel/setup.bash
+roslaunch ur_gazebo ur5_bringup.launch transmission_hw_interface:=hardware_interface/PositionJointInterface controllers:="joint_state_controller pos_joint_traj_controller" stopped_controllers:="joint_group_pos_controller"
+
+2.Terminal 2: Khởi động MoveIt  (Bộ não điều khiển)
+
+source ~/pick_and_place_ur5/devel/setup.bash
+roslaunch ur5_moveit_config moveit_planning_execution.launch sim:=true
+
+3.Terminal 3: 
+
+source ~/pick_and_place_ur5/devel/setup.bash
+rosrun rviz rviz -d ~/pick_and_place_ur5/src/ur5_control_node/config/my_pick_place.rviz
+
+4.Terminal 4:
+
+source ~/pick_and_place_ur5/devel/setup.bash
+rosrun ur5_control_node mission.py
+
+cap quyen usb
+ sudo chmod 666 /dev/ttyUSB0
+
+realsense-viewer
+
+# --- TỌA ĐỘ CŨ (Để so sánh) ---
+# joint_A_prime = [1.4784, -1.65, 1.75, -1.67, -1.57, 1.57]
+# joint_B_prime = [-0.0924, -1.65, 1.75, -1.67, -1.57, 1.57]
+
+# Điểm A (Vươn xa, Vuông góc với B)
+joint_A_prime = [1.4784, -1.35, 1.30, -1.52, -1.57, 0.0]
+
+# Điểm B (Vươn xa, Giữ nguyên góc Base cũ)
+joint_B_prime = [-0.0924, -1.35, 1.30, -1.52, -1.57, 0.0]
+
+
+VLM bai moi
+1. dung 3 file tri thuc de suy ra cong thuc, k can API cua API
+2. dung nhieu mo hinh AI khac, noi bo

@@ -1,0 +1,1001 @@
+id,label,material,rigidity_score,texture_score,material_desc
+OF2_0001,Plastic_Knife,Plastic,44,56,Polycarbonate/ABS
+OF2_0002,Ceramic_Bottle,Ceramic,91,36,Porcelain/China
+OF2_0003,Rubber_Lamp,Rubber,20,92,Soft Elastomer
+OF2_0004,Plastic_Spoon,Plastic,45,64,Polycarbonate/ABS
+OF2_0005,Rubber_ActionFigure,Rubber,17,93,Soft Elastomer
+OF2_0006,Rubber_ActionFigure,Rubber,21,97,Soft Elastomer
+OF2_0007,Steel_Vase,Steel,100,18,Stainless Steel/Iron
+OF2_0008,Steel_Fork,Steel,100,17,Stainless Steel/Iron
+OF2_0009,Glass_Vase,Glass,91,12,Tempered Glass
+OF2_0010,Steel_Wrench,Steel,94,10,Stainless Steel/Iron
+OF2_0011,Steel_Fork,Steel,95,14,Stainless Steel/Iron
+OF2_0012,Steel_Bottle,Steel,97,18,Stainless Steel/Iron
+OF2_0013,Steel_Wrench,Steel,95,15,Stainless Steel/Iron
+OF2_0014,Rubber_ActionFigure,Rubber,22,91,Soft Elastomer
+OF2_0015,Steel_Screwdriver,Steel,97,10,Stainless Steel/Iron
+OF2_0016,Plastic_ActionFigure,Plastic,42,63,Polycarbonate/ABS
+OF2_0017,Ceramic_Mug,Ceramic,92,36,Porcelain/China
+OF2_0018,Steel_Spoon,Steel,94,17,Stainless Steel/Iron
+OF2_0019,Steel_Fork,Steel,94,12,Stainless Steel/Iron
+OF2_0020,Plastic_Spoon,Plastic,44,62,Polycarbonate/ABS
+OF2_0021,Steel_Hammer,Steel,99,14,Stainless Steel/Iron
+OF2_0022,Wood_Ball,Wood,66,84,Hardwood/Oak
+OF2_0023,Plastic_Ball,Plastic,44,57,Polycarbonate/ABS
+OF2_0024,Steel_Screwdriver,Steel,99,19,Stainless Steel/Iron
+OF2_0025,Glass_Bowl,Glass,93,12,Tempered Glass
+OF2_0026,Glass_Vase,Glass,95,10,Tempered Glass
+OF2_0027,Steel_Hammer,Steel,93,18,Stainless Steel/Iron
+OF2_0028,Plastic_Mirror,Plastic,39,62,Polycarbonate/ABS
+OF2_0029,Steel_Screwdriver,Steel,98,19,Stainless Steel/Iron
+OF2_0030,Steel_Wrench,Steel,99,17,Stainless Steel/Iron
+OF2_0031,Rubber_Block,Rubber,19,95,Soft Elastomer
+OF2_0032,Plastic_Knife,Plastic,39,58,Polycarbonate/ABS
+OF2_0033,Rubber_Block,Rubber,13,98,Soft Elastomer
+OF2_0034,Glass_Bowl,Glass,87,13,Tempered Glass
+OF2_0035,Steel_Screwdriver,Steel,94,11,Stainless Steel/Iron
+OF2_0036,Plastic_Fork,Plastic,38,59,Polycarbonate/ABS
+OF2_0037,Rubber_ActionFigure,Rubber,16,92,Soft Elastomer
+OF2_0038,Rubber_Ball,Rubber,19,92,Soft Elastomer
+OF2_0039,Plastic_Spoon,Plastic,46,57,Polycarbonate/ABS
+OF2_0040,Plastic_Ball,Plastic,46,63,Polycarbonate/ABS
+OF2_0041,Ceramic_Cup,Ceramic,83,43,Porcelain/China
+OF2_0042,Glass_Cup,Glass,95,6,Tempered Glass
+OF2_0043,Plastic_ActionFigure,Plastic,46,61,Polycarbonate/ABS
+OF2_0044,Glass_Mirror,Glass,95,10,Tempered Glass
+OF2_0045,Steel_Screwdriver,Steel,97,18,Stainless Steel/Iron
+OF2_0046,Glass_Bowl,Glass,89,7,Tempered Glass
+OF2_0047,Rubber_ActionFigure,Rubber,20,98,Soft Elastomer
+OF2_0048,Ceramic_Plate,Ceramic,85,44,Porcelain/China
+OF2_0049,Steel_Spoon,Steel,99,14,Stainless Steel/Iron
+OF2_0050,Glass_Bowl,Glass,87,5,Tempered Glass
+OF2_0051,Plastic_Ball,Plastic,40,63,Polycarbonate/ABS
+OF2_0052,Steel_Wrench,Steel,93,15,Stainless Steel/Iron
+OF2_0053,Steel_Wrench,Steel,95,17,Stainless Steel/Iron
+OF2_0054,Rubber_ActionFigure,Rubber,21,98,Soft Elastomer
+OF2_0055,Steel_Knife,Steel,99,14,Stainless Steel/Iron
+OF2_0056,Steel_Screwdriver,Steel,100,16,Stainless Steel/Iron
+OF2_0057,Plastic_Fork,Plastic,46,59,Polycarbonate/ABS
+OF2_0058,Plastic_Knife,Plastic,40,63,Polycarbonate/ABS
+OF2_0059,Steel_Hammer,Steel,93,19,Stainless Steel/Iron
+OF2_0060,Glass_Plate,Glass,94,12,Tempered Glass
+OF2_0061,Plastic_Knife,Plastic,37,63,Polycarbonate/ABS
+OF2_0062,Glass_Lamp,Glass,91,10,Tempered Glass
+OF2_0063,Plastic_Fork,Plastic,40,64,Polycarbonate/ABS
+OF2_0064,Steel_Wrench,Steel,100,12,Stainless Steel/Iron
+OF2_0065,Plastic_Plate,Plastic,41,56,Polycarbonate/ABS
+OF2_0066,Steel_Wrench,Steel,100,12,Stainless Steel/Iron
+OF2_0067,Rubber_Ball,Rubber,13,90,Soft Elastomer
+OF2_0068,Ceramic_Plate,Ceramic,91,40,Porcelain/China
+OF2_0069,Glass_Bottle,Glass,96,13,Tempered Glass
+OF2_0070,Plastic_ActionFigure,Plastic,38,63,Polycarbonate/ABS
+OF2_0071,Ceramic_Bowl,Ceramic,86,35,Porcelain/China
+OF2_0072,Glass_Vase,Glass,88,13,Tempered Glass
+OF2_0073,Glass_Cup,Glass,96,12,Tempered Glass
+OF2_0074,Rubber_ActionFigure,Rubber,19,93,Soft Elastomer
+OF2_0075,Steel_Vase,Steel,100,15,Stainless Steel/Iron
+OF2_0076,Steel_Screwdriver,Steel,95,13,Stainless Steel/Iron
+OF2_0077,Plastic_Lamp,Plastic,40,62,Polycarbonate/ABS
+OF2_0078,Steel_Screwdriver,Steel,100,15,Stainless Steel/Iron
+OF2_0079,Plastic_Bowl,Plastic,39,55,Polycarbonate/ABS
+OF2_0080,Wood_Ball,Wood,69,82,Hardwood/Oak
+OF2_0081,Steel_Hammer,Steel,97,14,Stainless Steel/Iron
+OF2_0082,Glass_Plate,Glass,92,6,Tempered Glass
+OF2_0083,Plastic_Vase,Plastic,45,59,Polycarbonate/ABS
+OF2_0084,Wood_Block,Wood,67,78,Hardwood/Oak
+OF2_0085,Plastic_Bottle,Plastic,40,64,Polycarbonate/ABS
+OF2_0086,Steel_Knife,Steel,95,14,Stainless Steel/Iron
+OF2_0087,Rubber_Block,Rubber,16,98,Soft Elastomer
+OF2_0088,Steel_Spoon,Steel,100,16,Stainless Steel/Iron
+OF2_0089,Plastic_Bowl,Plastic,39,56,Polycarbonate/ABS
+OF2_0090,Plastic_Plate,Plastic,40,56,Polycarbonate/ABS
+OF2_0091,Plastic_Spoon,Plastic,44,61,Polycarbonate/ABS
+OF2_0092,Plastic_Plate,Plastic,44,55,Polycarbonate/ABS
+OF2_0093,Glass_Bowl,Glass,94,14,Tempered Glass
+OF2_0094,Glass_Plate,Glass,93,7,Tempered Glass
+OF2_0095,Glass_Cup,Glass,89,6,Tempered Glass
+OF2_0096,Steel_Screwdriver,Steel,100,10,Stainless Steel/Iron
+OF2_0097,Steel_Wrench,Steel,94,15,Stainless Steel/Iron
+OF2_0098,Wood_ActionFigure,Wood,63,82,Hardwood/Oak
+OF2_0099,Rubber_Mirror,Rubber,13,97,Soft Elastomer
+OF2_0100,Steel_Wrench,Steel,95,17,Stainless Steel/Iron
+OF2_0101,Steel_Screwdriver,Steel,100,17,Stainless Steel/Iron
+OF2_0102,Steel_Spoon,Steel,98,18,Stainless Steel/Iron
+OF2_0103,Rubber_Ball,Rubber,15,93,Soft Elastomer
+OF2_0104,Rubber_ActionFigure,Rubber,21,97,Soft Elastomer
+OF2_0105,Steel_Hammer,Steel,100,18,Stainless Steel/Iron
+OF2_0106,Glass_Cup,Glass,92,12,Tempered Glass
+OF2_0107,Wood_Vase,Wood,69,75,Hardwood/Oak
+OF2_0108,Wood_Vase,Wood,66,83,Hardwood/Oak
+OF2_0109,Plastic_ActionFigure,Plastic,42,62,Polycarbonate/ABS
+OF2_0110,Wood_Lamp,Wood,68,83,Hardwood/Oak
+OF2_0111,Plastic_Ball,Plastic,38,62,Polycarbonate/ABS
+OF2_0112,Steel_Fork,Steel,100,16,Stainless Steel/Iron
+OF2_0113,Plastic_Spoon,Plastic,37,64,Polycarbonate/ABS
+OF2_0114,Steel_Hammer,Steel,93,19,Stainless Steel/Iron
+OF2_0115,Steel_Screwdriver,Steel,97,17,Stainless Steel/Iron
+OF2_0116,Plastic_Vase,Plastic,42,63,Polycarbonate/ABS
+OF2_0117,Wood_ActionFigure,Wood,66,83,Hardwood/Oak
+OF2_0118,Rubber_Ball,Rubber,17,91,Soft Elastomer
+OF2_0119,Steel_Knife,Steel,94,17,Stainless Steel/Iron
+OF2_0120,Steel_Wrench,Steel,100,14,Stainless Steel/Iron
+OF2_0121,Steel_Wrench,Steel,93,12,Stainless Steel/Iron
+OF2_0122,Steel_Wrench,Steel,100,12,Stainless Steel/Iron
+OF2_0123,Wood_Ball,Wood,65,78,Hardwood/Oak
+OF2_0124,Glass_Mug,Glass,93,6,Tempered Glass
+OF2_0125,Plastic_Bowl,Plastic,40,55,Polycarbonate/ABS
+OF2_0126,Rubber_Block,Rubber,18,97,Soft Elastomer
+OF2_0127,Ceramic_Cup,Ceramic,84,43,Porcelain/China
+OF2_0128,Steel_Hammer,Steel,93,18,Stainless Steel/Iron
+OF2_0129,Glass_Cup,Glass,91,9,Tempered Glass
+OF2_0130,Wood_ActionFigure,Wood,66,77,Hardwood/Oak
+OF2_0131,Steel_Mirror,Steel,95,17,Stainless Steel/Iron
+OF2_0132,Plastic_Fork,Plastic,37,56,Polycarbonate/ABS
+OF2_0133,Plastic_Cup,Plastic,42,62,Polycarbonate/ABS
+OF2_0134,Steel_Wrench,Steel,93,15,Stainless Steel/Iron
+OF2_0135,Glass_Cup,Glass,91,9,Tempered Glass
+OF2_0136,Steel_Screwdriver,Steel,95,19,Stainless Steel/Iron
+OF2_0137,Steel_Knife,Steel,96,12,Stainless Steel/Iron
+OF2_0138,Rubber_Ball,Rubber,19,96,Soft Elastomer
+OF2_0139,Steel_Screwdriver,Steel,97,10,Stainless Steel/Iron
+OF2_0140,Steel_Wrench,Steel,95,12,Stainless Steel/Iron
+OF2_0141,Plastic_Block,Plastic,42,59,Polycarbonate/ABS
+OF2_0142,Steel_Wrench,Steel,100,17,Stainless Steel/Iron
+OF2_0143,Steel_Screwdriver,Steel,94,12,Stainless Steel/Iron
+OF2_0144,Rubber_Ball,Rubber,21,92,Soft Elastomer
+OF2_0145,Ceramic_Bowl,Ceramic,86,35,Porcelain/China
+OF2_0146,Rubber_ActionFigure,Rubber,18,99,Soft Elastomer
+OF2_0147,Steel_Screwdriver,Steel,95,14,Stainless Steel/Iron
+OF2_0148,Plastic_Mirror,Plastic,38,55,Polycarbonate/ABS
+OF2_0149,Plastic_ActionFigure,Plastic,44,64,Polycarbonate/ABS
+OF2_0150,Steel_Fork,Steel,100,15,Stainless Steel/Iron
+OF2_0151,Steel_Wrench,Steel,97,17,Stainless Steel/Iron
+OF2_0152,Wood_Block,Wood,67,80,Hardwood/Oak
+OF2_0153,Steel_Spoon,Steel,96,17,Stainless Steel/Iron
+OF2_0154,Wood_Ball,Wood,62,78,Hardwood/Oak
+OF2_0155,Steel_Fork,Steel,98,18,Stainless Steel/Iron
+OF2_0156,Steel_Wrench,Steel,94,14,Stainless Steel/Iron
+OF2_0157,Plastic_Ball,Plastic,43,57,Polycarbonate/ABS
+OF2_0158,Plastic_Lamp,Plastic,37,63,Polycarbonate/ABS
+OF2_0159,Rubber_Bottle,Rubber,15,95,Soft Elastomer
+OF2_0160,Wood_Ball,Wood,67,76,Hardwood/Oak
+OF2_0161,Ceramic_Bottle,Ceramic,90,37,Porcelain/China
+OF2_0162,Wood_Ball,Wood,63,75,Hardwood/Oak
+OF2_0163,Rubber_Vase,Rubber,13,90,Soft Elastomer
+OF2_0164,Plastic_Spoon,Plastic,46,62,Polycarbonate/ABS
+OF2_0165,Steel_Wrench,Steel,94,17,Stainless Steel/Iron
+OF2_0166,Wood_ActionFigure,Wood,65,80,Hardwood/Oak
+OF2_0167,Plastic_Mirror,Plastic,39,56,Polycarbonate/ABS
+OF2_0168,Glass_Lamp,Glass,89,9,Tempered Glass
+OF2_0169,Plastic_Fork,Plastic,41,59,Polycarbonate/ABS
+OF2_0170,Plastic_Spoon,Plastic,46,63,Polycarbonate/ABS
+OF2_0171,Wood_Block,Wood,65,79,Hardwood/Oak
+OF2_0172,Rubber_ActionFigure,Rubber,21,97,Soft Elastomer
+OF2_0173,Steel_Wrench,Steel,96,11,Stainless Steel/Iron
+OF2_0174,Steel_Bottle,Steel,100,14,Stainless Steel/Iron
+OF2_0175,Plastic_Fork,Plastic,38,62,Polycarbonate/ABS
+OF2_0176,Glass_Plate,Glass,88,13,Tempered Glass
+OF2_0177,Ceramic_Plate,Ceramic,91,43,Porcelain/China
+OF2_0178,Steel_Wrench,Steel,100,13,Stainless Steel/Iron
+OF2_0179,Steel_Vase,Steel,97,19,Stainless Steel/Iron
+OF2_0180,Steel_Wrench,Steel,96,12,Stainless Steel/Iron
+OF2_0181,Wood_Mirror,Wood,65,82,Hardwood/Oak
+OF2_0182,Plastic_Fork,Plastic,40,56,Polycarbonate/ABS
+OF2_0183,Ceramic_Vase,Ceramic,92,39,Porcelain/China
+OF2_0184,Steel_Wrench,Steel,94,14,Stainless Steel/Iron
+OF2_0185,Plastic_Mug,Plastic,46,61,Polycarbonate/ABS
+OF2_0186,Glass_Plate,Glass,90,9,Tempered Glass
+OF2_0187,Steel_Spoon,Steel,100,15,Stainless Steel/Iron
+OF2_0188,Plastic_Knife,Plastic,46,64,Polycarbonate/ABS
+OF2_0189,Steel_Hammer,Steel,97,13,Stainless Steel/Iron
+OF2_0190,Wood_ActionFigure,Wood,65,83,Hardwood/Oak
+OF2_0191,Wood_Block,Wood,63,83,Hardwood/Oak
+OF2_0192,Glass_Mirror,Glass,92,5,Tempered Glass
+OF2_0193,Rubber_Ball,Rubber,20,96,Soft Elastomer
+OF2_0194,Steel_Hammer,Steel,98,17,Stainless Steel/Iron
+OF2_0195,Steel_Hammer,Steel,100,15,Stainless Steel/Iron
+OF2_0196,Plastic_Mirror,Plastic,40,63,Polycarbonate/ABS
+OF2_0197,Plastic_Fork,Plastic,43,64,Polycarbonate/ABS
+OF2_0198,Rubber_Vase,Rubber,18,98,Soft Elastomer
+OF2_0199,Plastic_Fork,Plastic,42,57,Polycarbonate/ABS
+OF2_0200,Steel_Screwdriver,Steel,93,12,Stainless Steel/Iron
+OF2_0201,Steel_Knife,Steel,94,11,Stainless Steel/Iron
+OF2_0202,Rubber_Vase,Rubber,18,91,Soft Elastomer
+OF2_0203,Rubber_Lamp,Rubber,19,92,Soft Elastomer
+OF2_0204,Ceramic_Mug,Ceramic,86,37,Porcelain/China
+OF2_0205,Plastic_Cup,Plastic,41,59,Polycarbonate/ABS
+OF2_0206,Rubber_Block,Rubber,13,97,Soft Elastomer
+OF2_0207,Wood_Bottle,Wood,61,78,Hardwood/Oak
+OF2_0208,Glass_Vase,Glass,94,13,Tempered Glass
+OF2_0209,Plastic_Fork,Plastic,39,55,Polycarbonate/ABS
+OF2_0210,Rubber_ActionFigure,Rubber,14,95,Soft Elastomer
+OF2_0211,Steel_Knife,Steel,98,18,Stainless Steel/Iron
+OF2_0212,Glass_Vase,Glass,94,8,Tempered Glass
+OF2_0213,Steel_Screwdriver,Steel,97,19,Stainless Steel/Iron
+OF2_0214,Plastic_Fork,Plastic,42,55,Polycarbonate/ABS
+OF2_0215,Wood_ActionFigure,Wood,63,82,Hardwood/Oak
+OF2_0216,Plastic_Fork,Plastic,46,64,Polycarbonate/ABS
+OF2_0217,Plastic_Ball,Plastic,40,63,Polycarbonate/ABS
+OF2_0218,Glass_Bowl,Glass,96,11,Tempered Glass
+OF2_0219,Wood_Mirror,Wood,64,75,Hardwood/Oak
+OF2_0220,Plastic_Knife,Plastic,44,56,Polycarbonate/ABS
+OF2_0221,Wood_ActionFigure,Wood,64,79,Hardwood/Oak
+OF2_0222,Steel_Hammer,Steel,94,17,Stainless Steel/Iron
+OF2_0223,Steel_Hammer,Steel,93,19,Stainless Steel/Iron
+OF2_0224,Plastic_Plate,Plastic,39,62,Polycarbonate/ABS
+OF2_0225,Plastic_ActionFigure,Plastic,46,63,Polycarbonate/ABS
+OF2_0226,Glass_Bottle,Glass,94,6,Tempered Glass
+OF2_0227,Plastic_Ball,Plastic,40,60,Polycarbonate/ABS
+OF2_0228,Steel_Vase,Steel,99,11,Stainless Steel/Iron
+OF2_0229,Steel_Vase,Steel,98,15,Stainless Steel/Iron
+OF2_0230,Glass_Lamp,Glass,94,13,Tempered Glass
+OF2_0231,Ceramic_Plate,Ceramic,92,44,Porcelain/China
+OF2_0232,Steel_Spoon,Steel,95,18,Stainless Steel/Iron
+OF2_0233,Steel_Spoon,Steel,100,12,Stainless Steel/Iron
+OF2_0234,Steel_Screwdriver,Steel,94,12,Stainless Steel/Iron
+OF2_0235,Plastic_Vase,Plastic,40,64,Polycarbonate/ABS
+OF2_0236,Plastic_Fork,Plastic,40,64,Polycarbonate/ABS
+OF2_0237,Plastic_Knife,Plastic,46,60,Polycarbonate/ABS
+OF2_0238,Plastic_Bowl,Plastic,38,58,Polycarbonate/ABS
+OF2_0239,Steel_Fork,Steel,100,14,Stainless Steel/Iron
+OF2_0240,Glass_Cup,Glass,94,7,Tempered Glass
+OF2_0241,Plastic_ActionFigure,Plastic,41,64,Polycarbonate/ABS
+OF2_0242,Steel_Hammer,Steel,93,17,Stainless Steel/Iron
+OF2_0243,Ceramic_Cup,Ceramic,84,37,Porcelain/China
+OF2_0244,Plastic_Knife,Plastic,44,62,Polycarbonate/ABS
+OF2_0245,Steel_Wrench,Steel,98,12,Stainless Steel/Iron
+OF2_0246,Ceramic_Mug,Ceramic,91,41,Porcelain/China
+OF2_0247,Plastic_Cup,Plastic,44,55,Polycarbonate/ABS
+OF2_0248,Rubber_ActionFigure,Rubber,21,94,Soft Elastomer
+OF2_0249,Plastic_Knife,Plastic,42,60,Polycarbonate/ABS
+OF2_0250,Plastic_Vase,Plastic,44,56,Polycarbonate/ABS
+OF2_0251,Steel_Screwdriver,Steel,94,19,Stainless Steel/Iron
+OF2_0252,Steel_Mirror,Steel,100,13,Stainless Steel/Iron
+OF2_0253,Plastic_Mirror,Plastic,45,58,Polycarbonate/ABS
+OF2_0254,Steel_Spoon,Steel,99,19,Stainless Steel/Iron
+OF2_0255,Steel_Screwdriver,Steel,100,13,Stainless Steel/Iron
+OF2_0256,Steel_Knife,Steel,94,14,Stainless Steel/Iron
+OF2_0257,Plastic_Knife,Plastic,39,63,Polycarbonate/ABS
+OF2_0258,Wood_Block,Wood,65,79,Hardwood/Oak
+OF2_0259,Steel_Hammer,Steel,96,19,Stainless Steel/Iron
+OF2_0260,Plastic_Spoon,Plastic,43,56,Polycarbonate/ABS
+OF2_0261,Plastic_Ball,Plastic,38,60,Polycarbonate/ABS
+OF2_0262,Steel_Lamp,Steel,95,10,Stainless Steel/Iron
+OF2_0263,Steel_Screwdriver,Steel,96,13,Stainless Steel/Iron
+OF2_0264,Steel_Screwdriver,Steel,100,17,Stainless Steel/Iron
+OF2_0265,Glass_Bowl,Glass,96,9,Tempered Glass
+OF2_0266,Rubber_Vase,Rubber,19,93,Soft Elastomer
+OF2_0267,Steel_Screwdriver,Steel,100,17,Stainless Steel/Iron
+OF2_0268,Steel_Bottle,Steel,95,15,Stainless Steel/Iron
+OF2_0269,Steel_Screwdriver,Steel,100,15,Stainless Steel/Iron
+OF2_0270,Glass_Vase,Glass,96,6,Tempered Glass
+OF2_0271,Glass_Bottle,Glass,93,7,Tempered Glass
+OF2_0272,Ceramic_Mug,Ceramic,84,35,Porcelain/China
+OF2_0273,Steel_Fork,Steel,100,14,Stainless Steel/Iron
+OF2_0274,Glass_Mug,Glass,91,8,Tempered Glass
+OF2_0275,Rubber_Vase,Rubber,14,96,Soft Elastomer
+OF2_0276,Steel_Hammer,Steel,94,18,Stainless Steel/Iron
+OF2_0277,Steel_Spoon,Steel,100,16,Stainless Steel/Iron
+OF2_0278,Wood_ActionFigure,Wood,67,80,Hardwood/Oak
+OF2_0279,Steel_Wrench,Steel,100,19,Stainless Steel/Iron
+OF2_0280,Rubber_Lamp,Rubber,16,93,Soft Elastomer
+OF2_0281,Steel_Vase,Steel,95,15,Stainless Steel/Iron
+OF2_0282,Plastic_Plate,Plastic,37,59,Polycarbonate/ABS
+OF2_0283,Plastic_Mirror,Plastic,44,60,Polycarbonate/ABS
+OF2_0284,Steel_Screwdriver,Steel,93,14,Stainless Steel/Iron
+OF2_0285,Plastic_Ball,Plastic,40,63,Polycarbonate/ABS
+OF2_0286,Plastic_Plate,Plastic,39,57,Polycarbonate/ABS
+OF2_0287,Ceramic_Mug,Ceramic,83,35,Porcelain/China
+OF2_0288,Plastic_Lamp,Plastic,38,55,Polycarbonate/ABS
+OF2_0289,Glass_Plate,Glass,91,9,Tempered Glass
+OF2_0290,Plastic_Knife,Plastic,46,59,Polycarbonate/ABS
+OF2_0291,Steel_Knife,Steel,96,14,Stainless Steel/Iron
+OF2_0292,Plastic_Vase,Plastic,38,58,Polycarbonate/ABS
+OF2_0293,Plastic_ActionFigure,Plastic,43,61,Polycarbonate/ABS
+OF2_0294,Steel_Hammer,Steel,100,19,Stainless Steel/Iron
+OF2_0295,Rubber_Bottle,Rubber,14,93,Soft Elastomer
+OF2_0296,Plastic_Cup,Plastic,38,64,Polycarbonate/ABS
+OF2_0297,Plastic_Block,Plastic,37,61,Polycarbonate/ABS
+OF2_0298,Plastic_Ball,Plastic,37,57,Polycarbonate/ABS
+OF2_0299,Plastic_Spoon,Plastic,40,55,Polycarbonate/ABS
+OF2_0300,Wood_ActionFigure,Wood,61,76,Hardwood/Oak
+OF2_0301,Glass_Cup,Glass,88,9,Tempered Glass
+OF2_0302,Rubber_Vase,Rubber,13,92,Soft Elastomer
+OF2_0303,Steel_Hammer,Steel,95,16,Stainless Steel/Iron
+OF2_0304,Rubber_Ball,Rubber,21,96,Soft Elastomer
+OF2_0305,Plastic_Knife,Plastic,42,59,Polycarbonate/ABS
+OF2_0306,Ceramic_Cup,Ceramic,89,44,Porcelain/China
+OF2_0307,Rubber_Bottle,Rubber,22,94,Soft Elastomer
+OF2_0308,Plastic_Bowl,Plastic,45,64,Polycarbonate/ABS
+OF2_0309,Plastic_Plate,Plastic,45,61,Polycarbonate/ABS
+OF2_0310,Plastic_Knife,Plastic,41,64,Polycarbonate/ABS
+OF2_0311,Steel_Mirror,Steel,96,12,Stainless Steel/Iron
+OF2_0312,Glass_Cup,Glass,96,11,Tempered Glass
+OF2_0313,Plastic_Mug,Plastic,39,64,Polycarbonate/ABS
+OF2_0314,Plastic_Vase,Plastic,41,57,Polycarbonate/ABS
+OF2_0315,Ceramic_Cup,Ceramic,87,40,Porcelain/China
+OF2_0316,Plastic_Knife,Plastic,37,56,Polycarbonate/ABS
+OF2_0317,Steel_Wrench,Steel,99,10,Stainless Steel/Iron
+OF2_0318,Steel_Screwdriver,Steel,94,12,Stainless Steel/Iron
+OF2_0319,Rubber_ActionFigure,Rubber,19,95,Soft Elastomer
+OF2_0320,Plastic_ActionFigure,Plastic,38,62,Polycarbonate/ABS
+OF2_0321,Wood_Lamp,Wood,64,82,Hardwood/Oak
+OF2_0322,Steel_Vase,Steel,99,10,Stainless Steel/Iron
+OF2_0323,Steel_Screwdriver,Steel,98,13,Stainless Steel/Iron
+OF2_0324,Steel_Knife,Steel,100,10,Stainless Steel/Iron
+OF2_0325,Steel_Hammer,Steel,98,19,Stainless Steel/Iron
+OF2_0326,Glass_Vase,Glass,96,6,Tempered Glass
+OF2_0327,Ceramic_Plate,Ceramic,85,39,Porcelain/China
+OF2_0328,Glass_Bottle,Glass,91,13,Tempered Glass
+OF2_0329,Ceramic_Mug,Ceramic,88,37,Porcelain/China
+OF2_0330,Steel_Spoon,Steel,99,15,Stainless Steel/Iron
+OF2_0331,Steel_Screwdriver,Steel,93,10,Stainless Steel/Iron
+OF2_0332,Steel_Mirror,Steel,97,12,Stainless Steel/Iron
+OF2_0333,Rubber_ActionFigure,Rubber,14,99,Soft Elastomer
+OF2_0334,Rubber_Block,Rubber,13,93,Soft Elastomer
+OF2_0335,Plastic_Knife,Plastic,46,57,Polycarbonate/ABS
+OF2_0336,Steel_Screwdriver,Steel,100,15,Stainless Steel/Iron
+OF2_0337,Steel_Hammer,Steel,98,18,Stainless Steel/Iron
+OF2_0338,Steel_Spoon,Steel,97,15,Stainless Steel/Iron
+OF2_0339,Wood_Lamp,Wood,69,84,Hardwood/Oak
+OF2_0340,Steel_Wrench,Steel,95,15,Stainless Steel/Iron
+OF2_0341,Plastic_Knife,Plastic,38,62,Polycarbonate/ABS
+OF2_0342,Ceramic_Cup,Ceramic,92,42,Porcelain/China
+OF2_0343,Steel_Hammer,Steel,100,13,Stainless Steel/Iron
+OF2_0344,Steel_Wrench,Steel,96,16,Stainless Steel/Iron
+OF2_0345,Rubber_Bottle,Rubber,16,94,Soft Elastomer
+OF2_0346,Steel_Fork,Steel,99,11,Stainless Steel/Iron
+OF2_0347,Steel_Screwdriver,Steel,98,13,Stainless Steel/Iron
+OF2_0348,Wood_Lamp,Wood,65,75,Hardwood/Oak
+OF2_0349,Wood_Vase,Wood,67,75,Hardwood/Oak
+OF2_0350,Steel_Screwdriver,Steel,99,15,Stainless Steel/Iron
+OF2_0351,Ceramic_Bowl,Ceramic,90,41,Porcelain/China
+OF2_0352,Glass_Lamp,Glass,89,13,Tempered Glass
+OF2_0353,Plastic_Block,Plastic,44,55,Polycarbonate/ABS
+OF2_0354,Plastic_Knife,Plastic,41,58,Polycarbonate/ABS
+OF2_0355,Steel_Wrench,Steel,95,18,Stainless Steel/Iron
+OF2_0356,Plastic_Plate,Plastic,44,64,Polycarbonate/ABS
+OF2_0357,Rubber_Block,Rubber,22,98,Soft Elastomer
+OF2_0358,Steel_Knife,Steel,95,17,Stainless Steel/Iron
+OF2_0359,Steel_Vase,Steel,94,10,Stainless Steel/Iron
+OF2_0360,Wood_Lamp,Wood,64,80,Hardwood/Oak
+OF2_0361,Steel_Wrench,Steel,98,12,Stainless Steel/Iron
+OF2_0362,Steel_Hammer,Steel,95,11,Stainless Steel/Iron
+OF2_0363,Steel_Knife,Steel,93,18,Stainless Steel/Iron
+OF2_0364,Plastic_Fork,Plastic,37,63,Polycarbonate/ABS
+OF2_0365,Plastic_Cup,Plastic,46,63,Polycarbonate/ABS
+OF2_0366,Plastic_Block,Plastic,46,56,Polycarbonate/ABS
+OF2_0367,Steel_Wrench,Steel,96,19,Stainless Steel/Iron
+OF2_0368,Wood_Block,Wood,67,82,Hardwood/Oak
+OF2_0369,Steel_Screwdriver,Steel,100,12,Stainless Steel/Iron
+OF2_0370,Glass_Plate,Glass,93,6,Tempered Glass
+OF2_0371,Steel_Wrench,Steel,100,16,Stainless Steel/Iron
+OF2_0372,Steel_Hammer,Steel,100,18,Stainless Steel/Iron
+OF2_0373,Glass_Mirror,Glass,96,11,Tempered Glass
+OF2_0374,Plastic_Ball,Plastic,45,59,Polycarbonate/ABS
+OF2_0375,Plastic_Mirror,Plastic,38,58,Polycarbonate/ABS
+OF2_0376,Wood_ActionFigure,Wood,62,78,Hardwood/Oak
+OF2_0377,Steel_Screwdriver,Steel,100,19,Stainless Steel/Iron
+OF2_0378,Steel_Hammer,Steel,100,15,Stainless Steel/Iron
+OF2_0379,Plastic_ActionFigure,Plastic,40,55,Polycarbonate/ABS
+OF2_0380,Plastic_Mug,Plastic,46,61,Polycarbonate/ABS
+OF2_0381,Wood_Mirror,Wood,60,82,Hardwood/Oak
+OF2_0382,Plastic_Cup,Plastic,38,55,Polycarbonate/ABS
+OF2_0383,Plastic_Lamp,Plastic,42,60,Polycarbonate/ABS
+OF2_0384,Plastic_Fork,Plastic,40,58,Polycarbonate/ABS
+OF2_0385,Glass_Vase,Glass,90,8,Tempered Glass
+OF2_0386,Rubber_ActionFigure,Rubber,18,91,Soft Elastomer
+OF2_0387,Glass_Cup,Glass,94,11,Tempered Glass
+OF2_0388,Rubber_Mirror,Rubber,17,96,Soft Elastomer
+OF2_0389,Wood_Ball,Wood,67,77,Hardwood/Oak
+OF2_0390,Ceramic_Bottle,Ceramic,83,36,Porcelain/China
+OF2_0391,Rubber_Block,Rubber,13,93,Soft Elastomer
+OF2_0392,Steel_Fork,Steel,97,15,Stainless Steel/Iron
+OF2_0393,Wood_Lamp,Wood,63,79,Hardwood/Oak
+OF2_0394,Steel_Knife,Steel,99,15,Stainless Steel/Iron
+OF2_0395,Plastic_Cup,Plastic,41,55,Polycarbonate/ABS
+OF2_0396,Steel_Vase,Steel,94,12,Stainless Steel/Iron
+OF2_0397,Steel_Screwdriver,Steel,93,10,Stainless Steel/Iron
+OF2_0398,Rubber_ActionFigure,Rubber,22,92,Soft Elastomer
+OF2_0399,Wood_Block,Wood,68,79,Hardwood/Oak
+OF2_0400,Plastic_Fork,Plastic,43,55,Polycarbonate/ABS
+OF2_0401,Plastic_Fork,Plastic,43,58,Polycarbonate/ABS
+OF2_0402,Ceramic_Vase,Ceramic,84,42,Porcelain/China
+OF2_0403,Plastic_Ball,Plastic,40,62,Polycarbonate/ABS
+OF2_0404,Plastic_Fork,Plastic,41,59,Polycarbonate/ABS
+OF2_0405,Steel_Spoon,Steel,97,17,Stainless Steel/Iron
+OF2_0406,Wood_Bottle,Wood,63,81,Hardwood/Oak
+OF2_0407,Wood_Lamp,Wood,60,83,Hardwood/Oak
+OF2_0408,Steel_Screwdriver,Steel,100,10,Stainless Steel/Iron
+OF2_0409,Steel_Screwdriver,Steel,100,11,Stainless Steel/Iron
+OF2_0410,Steel_Fork,Steel,98,10,Stainless Steel/Iron
+OF2_0411,Plastic_Mug,Plastic,41,57,Polycarbonate/ABS
+OF2_0412,Steel_Wrench,Steel,100,11,Stainless Steel/Iron
+OF2_0413,Steel_Knife,Steel,100,14,Stainless Steel/Iron
+OF2_0414,Steel_Wrench,Steel,100,14,Stainless Steel/Iron
+OF2_0415,Glass_Vase,Glass,95,10,Tempered Glass
+OF2_0416,Rubber_Ball,Rubber,21,96,Soft Elastomer
+OF2_0417,Plastic_Bowl,Plastic,39,58,Polycarbonate/ABS
+OF2_0418,Wood_Block,Wood,64,78,Hardwood/Oak
+OF2_0419,Steel_Hammer,Steel,94,18,Stainless Steel/Iron
+OF2_0420,Plastic_Cup,Plastic,41,58,Polycarbonate/ABS
+OF2_0421,Steel_Screwdriver,Steel,95,17,Stainless Steel/Iron
+OF2_0422,Plastic_Fork,Plastic,42,58,Polycarbonate/ABS
+OF2_0423,Plastic_Vase,Plastic,41,59,Polycarbonate/ABS
+OF2_0424,Plastic_Spoon,Plastic,45,55,Polycarbonate/ABS
+OF2_0425,Wood_Bottle,Wood,65,76,Hardwood/Oak
+OF2_0426,Steel_Wrench,Steel,96,12,Stainless Steel/Iron
+OF2_0427,Steel_Screwdriver,Steel,94,14,Stainless Steel/Iron
+OF2_0428,Steel_Screwdriver,Steel,99,10,Stainless Steel/Iron
+OF2_0429,Wood_ActionFigure,Wood,67,78,Hardwood/Oak
+OF2_0430,Plastic_Fork,Plastic,43,56,Polycarbonate/ABS
+OF2_0431,Plastic_Block,Plastic,37,64,Polycarbonate/ABS
+OF2_0432,Rubber_ActionFigure,Rubber,15,98,Soft Elastomer
+OF2_0433,Rubber_ActionFigure,Rubber,14,93,Soft Elastomer
+OF2_0434,Plastic_Cup,Plastic,39,56,Polycarbonate/ABS
+OF2_0435,Steel_Screwdriver,Steel,100,11,Stainless Steel/Iron
+OF2_0436,Ceramic_Bottle,Ceramic,84,36,Porcelain/China
+OF2_0437,Steel_Wrench,Steel,100,10,Stainless Steel/Iron
+OF2_0438,Ceramic_Plate,Ceramic,88,40,Porcelain/China
+OF2_0439,Steel_Hammer,Steel,94,15,Stainless Steel/Iron
+OF2_0440,Plastic_Knife,Plastic,46,56,Polycarbonate/ABS
+OF2_0441,Plastic_Knife,Plastic,44,61,Polycarbonate/ABS
+OF2_0442,Plastic_Ball,Plastic,44,63,Polycarbonate/ABS
+OF2_0443,Steel_Wrench,Steel,100,12,Stainless Steel/Iron
+OF2_0444,Plastic_Knife,Plastic,43,57,Polycarbonate/ABS
+OF2_0445,Plastic_Block,Plastic,38,60,Polycarbonate/ABS
+OF2_0446,Rubber_Lamp,Rubber,14,97,Soft Elastomer
+OF2_0447,Steel_Screwdriver,Steel,100,18,Stainless Steel/Iron
+OF2_0448,Ceramic_Plate,Ceramic,84,39,Porcelain/China
+OF2_0449,Steel_Wrench,Steel,97,12,Stainless Steel/Iron
+OF2_0450,Steel_Screwdriver,Steel,96,19,Stainless Steel/Iron
+OF2_0451,Steel_Hammer,Steel,100,14,Stainless Steel/Iron
+OF2_0452,Plastic_Block,Plastic,37,57,Polycarbonate/ABS
+OF2_0453,Steel_Hammer,Steel,99,11,Stainless Steel/Iron
+OF2_0454,Wood_Block,Wood,68,82,Hardwood/Oak
+OF2_0455,Steel_Spoon,Steel,100,15,Stainless Steel/Iron
+OF2_0456,Steel_Spoon,Steel,100,14,Stainless Steel/Iron
+OF2_0457,Rubber_Block,Rubber,22,92,Soft Elastomer
+OF2_0458,Steel_Wrench,Steel,95,10,Stainless Steel/Iron
+OF2_0459,Steel_Hammer,Steel,96,15,Stainless Steel/Iron
+OF2_0460,Ceramic_Vase,Ceramic,87,36,Porcelain/China
+OF2_0461,Wood_ActionFigure,Wood,61,80,Hardwood/Oak
+OF2_0462,Rubber_ActionFigure,Rubber,15,98,Soft Elastomer
+OF2_0463,Ceramic_Mirror,Ceramic,84,43,Porcelain/China
+OF2_0464,Glass_Mug,Glass,88,9,Tempered Glass
+OF2_0465,Steel_Hammer,Steel,100,17,Stainless Steel/Iron
+OF2_0466,Steel_Wrench,Steel,98,18,Stainless Steel/Iron
+OF2_0467,Glass_Bowl,Glass,88,13,Tempered Glass
+OF2_0468,Wood_Ball,Wood,66,78,Hardwood/Oak
+OF2_0469,Plastic_ActionFigure,Plastic,44,59,Polycarbonate/ABS
+OF2_0470,Rubber_Lamp,Rubber,18,91,Soft Elastomer
+OF2_0471,Steel_Wrench,Steel,100,17,Stainless Steel/Iron
+OF2_0472,Steel_Wrench,Steel,100,15,Stainless Steel/Iron
+OF2_0473,Plastic_ActionFigure,Plastic,46,57,Polycarbonate/ABS
+OF2_0474,Plastic_Fork,Plastic,46,55,Polycarbonate/ABS
+OF2_0475,Wood_Ball,Wood,60,81,Hardwood/Oak
+OF2_0476,Plastic_Spoon,Plastic,38,57,Polycarbonate/ABS
+OF2_0477,Steel_Wrench,Steel,100,19,Stainless Steel/Iron
+OF2_0478,Glass_Plate,Glass,89,13,Tempered Glass
+OF2_0479,Ceramic_Bottle,Ceramic,92,43,Porcelain/China
+OF2_0480,Glass_Bowl,Glass,92,12,Tempered Glass
+OF2_0481,Plastic_Ball,Plastic,44,63,Polycarbonate/ABS
+OF2_0482,Wood_Block,Wood,68,78,Hardwood/Oak
+OF2_0483,Plastic_Cup,Plastic,38,58,Polycarbonate/ABS
+OF2_0484,Glass_Lamp,Glass,92,6,Tempered Glass
+OF2_0485,Steel_Screwdriver,Steel,100,11,Stainless Steel/Iron
+OF2_0486,Steel_Knife,Steel,100,19,Stainless Steel/Iron
+OF2_0487,Wood_Mirror,Wood,67,81,Hardwood/Oak
+OF2_0488,Glass_Cup,Glass,92,12,Tempered Glass
+OF2_0489,Wood_ActionFigure,Wood,68,75,Hardwood/Oak
+OF2_0490,Wood_Vase,Wood,60,79,Hardwood/Oak
+OF2_0491,Steel_Knife,Steel,100,14,Stainless Steel/Iron
+OF2_0492,Plastic_Block,Plastic,43,59,Polycarbonate/ABS
+OF2_0493,Wood_Vase,Wood,65,75,Hardwood/Oak
+OF2_0494,Wood_ActionFigure,Wood,61,81,Hardwood/Oak
+OF2_0495,Glass_Mug,Glass,92,6,Tempered Glass
+OF2_0496,Rubber_Block,Rubber,20,96,Soft Elastomer
+OF2_0497,Plastic_Ball,Plastic,40,59,Polycarbonate/ABS
+OF2_0498,Steel_Fork,Steel,97,16,Stainless Steel/Iron
+OF2_0499,Plastic_Mug,Plastic,39,58,Polycarbonate/ABS
+OF2_0500,Rubber_ActionFigure,Rubber,15,91,Soft Elastomer
+OF2_0501,Steel_Fork,Steel,97,11,Stainless Steel/Iron
+OF2_0502,Wood_Block,Wood,67,75,Hardwood/Oak
+OF2_0503,Steel_Hammer,Steel,94,13,Stainless Steel/Iron
+OF2_0504,Plastic_Fork,Plastic,40,62,Polycarbonate/ABS
+OF2_0505,Plastic_Vase,Plastic,39,61,Polycarbonate/ABS
+OF2_0506,Rubber_ActionFigure,Rubber,17,96,Soft Elastomer
+OF2_0507,Steel_Spoon,Steel,97,15,Stainless Steel/Iron
+OF2_0508,Glass_Plate,Glass,92,12,Tempered Glass
+OF2_0509,Plastic_Ball,Plastic,44,59,Polycarbonate/ABS
+OF2_0510,Wood_Block,Wood,60,75,Hardwood/Oak
+OF2_0511,Steel_Spoon,Steel,100,13,Stainless Steel/Iron
+OF2_0512,Steel_Mirror,Steel,95,16,Stainless Steel/Iron
+OF2_0513,Glass_Mirror,Glass,94,14,Tempered Glass
+OF2_0514,Steel_Knife,Steel,100,16,Stainless Steel/Iron
+OF2_0515,Steel_Hammer,Steel,99,19,Stainless Steel/Iron
+OF2_0516,Wood_ActionFigure,Wood,67,75,Hardwood/Oak
+OF2_0517,Plastic_Spoon,Plastic,43,55,Polycarbonate/ABS
+OF2_0518,Plastic_Block,Plastic,46,55,Polycarbonate/ABS
+OF2_0519,Plastic_Fork,Plastic,37,59,Polycarbonate/ABS
+OF2_0520,Plastic_Ball,Plastic,44,59,Polycarbonate/ABS
+OF2_0521,Rubber_Ball,Rubber,19,97,Soft Elastomer
+OF2_0522,Plastic_Spoon,Plastic,45,64,Polycarbonate/ABS
+OF2_0523,Rubber_ActionFigure,Rubber,20,93,Soft Elastomer
+OF2_0524,Steel_Lamp,Steel,93,18,Stainless Steel/Iron
+OF2_0525,Steel_Fork,Steel,97,19,Stainless Steel/Iron
+OF2_0526,Ceramic_Cup,Ceramic,86,44,Porcelain/China
+OF2_0527,Steel_Wrench,Steel,94,15,Stainless Steel/Iron
+OF2_0528,Steel_Wrench,Steel,100,17,Stainless Steel/Iron
+OF2_0529,Steel_Fork,Steel,96,11,Stainless Steel/Iron
+OF2_0530,Plastic_Mirror,Plastic,46,58,Polycarbonate/ABS
+OF2_0531,Steel_Mirror,Steel,100,17,Stainless Steel/Iron
+OF2_0532,Steel_Hammer,Steel,99,14,Stainless Steel/Iron
+OF2_0533,Steel_Spoon,Steel,99,15,Stainless Steel/Iron
+OF2_0534,Wood_ActionFigure,Wood,69,76,Hardwood/Oak
+OF2_0535,Steel_Fork,Steel,97,13,Stainless Steel/Iron
+OF2_0536,Glass_Mug,Glass,87,10,Tempered Glass
+OF2_0537,Steel_Wrench,Steel,100,14,Stainless Steel/Iron
+OF2_0538,Steel_Hammer,Steel,100,11,Stainless Steel/Iron
+OF2_0539,Rubber_Bottle,Rubber,18,90,Soft Elastomer
+OF2_0540,Steel_Screwdriver,Steel,100,15,Stainless Steel/Iron
+OF2_0541,Plastic_ActionFigure,Plastic,39,59,Polycarbonate/ABS
+OF2_0542,Steel_Vase,Steel,96,11,Stainless Steel/Iron
+OF2_0543,Steel_Knife,Steel,100,10,Stainless Steel/Iron
+OF2_0544,Steel_Hammer,Steel,97,17,Stainless Steel/Iron
+OF2_0545,Glass_Plate,Glass,89,9,Tempered Glass
+OF2_0546,Glass_Bottle,Glass,91,8,Tempered Glass
+OF2_0547,Rubber_ActionFigure,Rubber,20,94,Soft Elastomer
+OF2_0548,Wood_Block,Wood,65,84,Hardwood/Oak
+OF2_0549,Steel_Knife,Steel,94,14,Stainless Steel/Iron
+OF2_0550,Glass_Mirror,Glass,94,8,Tempered Glass
+OF2_0551,Plastic_Fork,Plastic,46,62,Polycarbonate/ABS
+OF2_0552,Wood_Mirror,Wood,63,82,Hardwood/Oak
+OF2_0553,Ceramic_Mirror,Ceramic,92,43,Porcelain/China
+OF2_0554,Plastic_Cup,Plastic,38,60,Polycarbonate/ABS
+OF2_0555,Plastic_ActionFigure,Plastic,40,60,Polycarbonate/ABS
+OF2_0556,Ceramic_Bottle,Ceramic,86,41,Porcelain/China
+OF2_0557,Steel_Spoon,Steel,95,11,Stainless Steel/Iron
+OF2_0558,Glass_Bottle,Glass,90,6,Tempered Glass
+OF2_0559,Plastic_Fork,Plastic,41,63,Polycarbonate/ABS
+OF2_0560,Plastic_Spoon,Plastic,42,63,Polycarbonate/ABS
+OF2_0561,Ceramic_Mug,Ceramic,87,37,Porcelain/China
+OF2_0562,Ceramic_Bowl,Ceramic,90,36,Porcelain/China
+OF2_0563,Steel_Hammer,Steel,95,18,Stainless Steel/Iron
+OF2_0564,Wood_Bottle,Wood,60,83,Hardwood/Oak
+OF2_0565,Wood_Ball,Wood,62,75,Hardwood/Oak
+OF2_0566,Glass_Plate,Glass,94,9,Tempered Glass
+OF2_0567,Ceramic_Mug,Ceramic,84,44,Porcelain/China
+OF2_0568,Steel_Fork,Steel,100,13,Stainless Steel/Iron
+OF2_0569,Steel_Spoon,Steel,100,15,Stainless Steel/Iron
+OF2_0570,Steel_Wrench,Steel,99,13,Stainless Steel/Iron
+OF2_0571,Rubber_Block,Rubber,20,98,Soft Elastomer
+OF2_0572,Plastic_Fork,Plastic,41,57,Polycarbonate/ABS
+OF2_0573,Plastic_Bottle,Plastic,46,64,Polycarbonate/ABS
+OF2_0574,Plastic_Fork,Plastic,37,61,Polycarbonate/ABS
+OF2_0575,Plastic_Spoon,Plastic,37,59,Polycarbonate/ABS
+OF2_0576,Rubber_Ball,Rubber,16,93,Soft Elastomer
+OF2_0577,Glass_Cup,Glass,95,7,Tempered Glass
+OF2_0578,Ceramic_Bowl,Ceramic,91,44,Porcelain/China
+OF2_0579,Plastic_Fork,Plastic,37,59,Polycarbonate/ABS
+OF2_0580,Steel_Wrench,Steel,93,13,Stainless Steel/Iron
+OF2_0581,Rubber_Lamp,Rubber,15,99,Soft Elastomer
+OF2_0582,Rubber_ActionFigure,Rubber,16,93,Soft Elastomer
+OF2_0583,Wood_Ball,Wood,61,80,Hardwood/Oak
+OF2_0584,Glass_Plate,Glass,89,11,Tempered Glass
+OF2_0585,Plastic_Bowl,Plastic,44,64,Polycarbonate/ABS
+OF2_0586,Steel_Hammer,Steel,100,16,Stainless Steel/Iron
+OF2_0587,Glass_Mug,Glass,87,8,Tempered Glass
+OF2_0588,Steel_Hammer,Steel,99,16,Stainless Steel/Iron
+OF2_0589,Steel_Knife,Steel,97,13,Stainless Steel/Iron
+OF2_0590,Steel_Wrench,Steel,97,19,Stainless Steel/Iron
+OF2_0591,Plastic_Knife,Plastic,41,63,Polycarbonate/ABS
+OF2_0592,Steel_Hammer,Steel,100,12,Stainless Steel/Iron
+OF2_0593,Plastic_Bottle,Plastic,45,58,Polycarbonate/ABS
+OF2_0594,Steel_Wrench,Steel,98,13,Stainless Steel/Iron
+OF2_0595,Wood_Bottle,Wood,69,81,Hardwood/Oak
+OF2_0596,Rubber_Block,Rubber,14,92,Soft Elastomer
+OF2_0597,Plastic_Bowl,Plastic,40,62,Polycarbonate/ABS
+OF2_0598,Ceramic_Bowl,Ceramic,85,40,Porcelain/China
+OF2_0599,Ceramic_Bowl,Ceramic,83,35,Porcelain/China
+OF2_0600,Ceramic_Cup,Ceramic,83,35,Porcelain/China
+OF2_0601,Glass_Bottle,Glass,89,9,Tempered Glass
+OF2_0602,Glass_Bowl,Glass,89,9,Tempered Glass
+OF2_0603,Steel_Hammer,Steel,100,14,Stainless Steel/Iron
+OF2_0604,Steel_Fork,Steel,99,12,Stainless Steel/Iron
+OF2_0605,Glass_Cup,Glass,94,6,Tempered Glass
+OF2_0606,Wood_Vase,Wood,68,81,Hardwood/Oak
+OF2_0607,Plastic_Spoon,Plastic,43,57,Polycarbonate/ABS
+OF2_0608,Plastic_Mug,Plastic,45,60,Polycarbonate/ABS
+OF2_0609,Rubber_ActionFigure,Rubber,15,99,Soft Elastomer
+OF2_0610,Wood_Ball,Wood,63,83,Hardwood/Oak
+OF2_0611,Steel_Wrench,Steel,97,11,Stainless Steel/Iron
+OF2_0612,Steel_Wrench,Steel,100,18,Stainless Steel/Iron
+OF2_0613,Plastic_Ball,Plastic,44,58,Polycarbonate/ABS
+OF2_0614,Glass_Plate,Glass,88,12,Tempered Glass
+OF2_0615,Rubber_ActionFigure,Rubber,18,92,Soft Elastomer
+OF2_0616,Glass_Plate,Glass,92,12,Tempered Glass
+OF2_0617,Steel_Screwdriver,Steel,96,18,Stainless Steel/Iron
+OF2_0618,Glass_Cup,Glass,89,5,Tempered Glass
+OF2_0619,Plastic_Spoon,Plastic,39,63,Polycarbonate/ABS
+OF2_0620,Ceramic_Mug,Ceramic,91,41,Porcelain/China
+OF2_0621,Plastic_Plate,Plastic,46,61,Polycarbonate/ABS
+OF2_0622,Rubber_Ball,Rubber,20,96,Soft Elastomer
+OF2_0623,Glass_Mug,Glass,91,8,Tempered Glass
+OF2_0624,Plastic_Fork,Plastic,46,55,Polycarbonate/ABS
+OF2_0625,Steel_Fork,Steel,93,10,Stainless Steel/Iron
+OF2_0626,Plastic_Knife,Plastic,42,57,Polycarbonate/ABS
+OF2_0627,Plastic_Knife,Plastic,38,60,Polycarbonate/ABS
+OF2_0628,Plastic_ActionFigure,Plastic,45,64,Polycarbonate/ABS
+OF2_0629,Steel_Screwdriver,Steel,98,15,Stainless Steel/Iron
+OF2_0630,Steel_Spoon,Steel,98,18,Stainless Steel/Iron
+OF2_0631,Ceramic_Bottle,Ceramic,90,35,Porcelain/China
+OF2_0632,Steel_Knife,Steel,98,10,Stainless Steel/Iron
+OF2_0633,Ceramic_Vase,Ceramic,92,36,Porcelain/China
+OF2_0634,Steel_Wrench,Steel,100,16,Stainless Steel/Iron
+OF2_0635,Rubber_ActionFigure,Rubber,13,97,Soft Elastomer
+OF2_0636,Rubber_Vase,Rubber,20,91,Soft Elastomer
+OF2_0637,Glass_Plate,Glass,92,12,Tempered Glass
+OF2_0638,Wood_ActionFigure,Wood,69,79,Hardwood/Oak
+OF2_0639,Steel_Knife,Steel,96,18,Stainless Steel/Iron
+OF2_0640,Wood_ActionFigure,Wood,61,78,Hardwood/Oak
+OF2_0641,Ceramic_Cup,Ceramic,87,38,Porcelain/China
+OF2_0642,Steel_Knife,Steel,97,10,Stainless Steel/Iron
+OF2_0643,Steel_Knife,Steel,97,15,Stainless Steel/Iron
+OF2_0644,Plastic_Block,Plastic,43,59,Polycarbonate/ABS
+OF2_0645,Plastic_Fork,Plastic,41,56,Polycarbonate/ABS
+OF2_0646,Plastic_Bowl,Plastic,40,61,Polycarbonate/ABS
+OF2_0647,Wood_Block,Wood,64,80,Hardwood/Oak
+OF2_0648,Steel_Fork,Steel,96,11,Stainless Steel/Iron
+OF2_0649,Rubber_ActionFigure,Rubber,21,93,Soft Elastomer
+OF2_0650,Glass_Mirror,Glass,91,5,Tempered Glass
+OF2_0651,Steel_Screwdriver,Steel,100,12,Stainless Steel/Iron
+OF2_0652,Ceramic_Bowl,Ceramic,84,43,Porcelain/China
+OF2_0653,Plastic_Spoon,Plastic,37,60,Polycarbonate/ABS
+OF2_0654,Steel_Screwdriver,Steel,97,13,Stainless Steel/Iron
+OF2_0655,Steel_Screwdriver,Steel,93,16,Stainless Steel/Iron
+OF2_0656,Rubber_Ball,Rubber,18,93,Soft Elastomer
+OF2_0657,Ceramic_Bowl,Ceramic,89,43,Porcelain/China
+OF2_0658,Steel_Fork,Steel,98,14,Stainless Steel/Iron
+OF2_0659,Ceramic_Mirror,Ceramic,86,39,Porcelain/China
+OF2_0660,Steel_Screwdriver,Steel,100,16,Stainless Steel/Iron
+OF2_0661,Ceramic_Bottle,Ceramic,92,44,Porcelain/China
+OF2_0662,Steel_Fork,Steel,100,15,Stainless Steel/Iron
+OF2_0663,Rubber_ActionFigure,Rubber,19,90,Soft Elastomer
+OF2_0664,Ceramic_Plate,Ceramic,90,40,Porcelain/China
+OF2_0665,Wood_Bottle,Wood,64,83,Hardwood/Oak
+OF2_0666,Plastic_Fork,Plastic,37,56,Polycarbonate/ABS
+OF2_0667,Plastic_Spoon,Plastic,42,57,Polycarbonate/ABS
+OF2_0668,Steel_Knife,Steel,100,12,Stainless Steel/Iron
+OF2_0669,Wood_Vase,Wood,68,77,Hardwood/Oak
+OF2_0670,Rubber_Ball,Rubber,21,97,Soft Elastomer
+OF2_0671,Steel_Hammer,Steel,99,13,Stainless Steel/Iron
+OF2_0672,Plastic_ActionFigure,Plastic,40,56,Polycarbonate/ABS
+OF2_0673,Wood_Ball,Wood,62,82,Hardwood/Oak
+OF2_0674,Glass_Mirror,Glass,89,7,Tempered Glass
+OF2_0675,Ceramic_Vase,Ceramic,87,39,Porcelain/China
+OF2_0676,Ceramic_Mirror,Ceramic,89,38,Porcelain/China
+OF2_0677,Wood_ActionFigure,Wood,69,76,Hardwood/Oak
+OF2_0678,Steel_Knife,Steel,100,16,Stainless Steel/Iron
+OF2_0679,Rubber_Bottle,Rubber,20,97,Soft Elastomer
+OF2_0680,Wood_ActionFigure,Wood,62,84,Hardwood/Oak
+OF2_0681,Steel_Vase,Steel,96,13,Stainless Steel/Iron
+OF2_0682,Ceramic_Mug,Ceramic,87,38,Porcelain/China
+OF2_0683,Steel_Wrench,Steel,93,16,Stainless Steel/Iron
+OF2_0684,Wood_Block,Wood,60,77,Hardwood/Oak
+OF2_0685,Rubber_Mirror,Rubber,14,93,Soft Elastomer
+OF2_0686,Rubber_ActionFigure,Rubber,18,98,Soft Elastomer
+OF2_0687,Steel_Spoon,Steel,98,10,Stainless Steel/Iron
+OF2_0688,Steel_Hammer,Steel,100,14,Stainless Steel/Iron
+OF2_0689,Rubber_Ball,Rubber,20,91,Soft Elastomer
+OF2_0690,Glass_Bowl,Glass,90,10,Tempered Glass
+OF2_0691,Plastic_Fork,Plastic,44,62,Polycarbonate/ABS
+OF2_0692,Steel_Fork,Steel,93,14,Stainless Steel/Iron
+OF2_0693,Plastic_Block,Plastic,39,55,Polycarbonate/ABS
+OF2_0694,Steel_Fork,Steel,95,16,Stainless Steel/Iron
+OF2_0695,Glass_Cup,Glass,93,14,Tempered Glass
+OF2_0696,Steel_Hammer,Steel,100,11,Stainless Steel/Iron
+OF2_0697,Steel_Wrench,Steel,99,12,Stainless Steel/Iron
+OF2_0698,Rubber_Vase,Rubber,22,97,Soft Elastomer
+OF2_0699,Plastic_Spoon,Plastic,44,58,Polycarbonate/ABS
+OF2_0700,Steel_Spoon,Steel,96,17,Stainless Steel/Iron
+OF2_0701,Rubber_ActionFigure,Rubber,22,90,Soft Elastomer
+OF2_0702,Plastic_Fork,Plastic,37,60,Polycarbonate/ABS
+OF2_0703,Wood_Bottle,Wood,64,77,Hardwood/Oak
+OF2_0704,Steel_Hammer,Steel,97,10,Stainless Steel/Iron
+OF2_0705,Plastic_Ball,Plastic,45,62,Polycarbonate/ABS
+OF2_0706,Wood_Vase,Wood,66,84,Hardwood/Oak
+OF2_0707,Steel_Fork,Steel,99,12,Stainless Steel/Iron
+OF2_0708,Steel_Wrench,Steel,93,13,Stainless Steel/Iron
+OF2_0709,Rubber_Block,Rubber,21,92,Soft Elastomer
+OF2_0710,Steel_Screwdriver,Steel,96,19,Stainless Steel/Iron
+OF2_0711,Rubber_Bottle,Rubber,15,91,Soft Elastomer
+OF2_0712,Plastic_Lamp,Plastic,41,63,Polycarbonate/ABS
+OF2_0713,Steel_Screwdriver,Steel,100,15,Stainless Steel/Iron
+OF2_0714,Steel_Hammer,Steel,93,15,Stainless Steel/Iron
+OF2_0715,Steel_Wrench,Steel,96,17,Stainless Steel/Iron
+OF2_0716,Steel_Hammer,Steel,99,16,Stainless Steel/Iron
+OF2_0717,Wood_Ball,Wood,67,78,Hardwood/Oak
+OF2_0718,Steel_Spoon,Steel,93,16,Stainless Steel/Iron
+OF2_0719,Steel_Screwdriver,Steel,95,13,Stainless Steel/Iron
+OF2_0720,Rubber_Mirror,Rubber,15,97,Soft Elastomer
+OF2_0721,Ceramic_Lamp,Ceramic,83,44,Porcelain/China
+OF2_0722,Steel_Spoon,Steel,94,13,Stainless Steel/Iron
+OF2_0723,Steel_Lamp,Steel,96,11,Stainless Steel/Iron
+OF2_0724,Steel_Hammer,Steel,99,14,Stainless Steel/Iron
+OF2_0725,Plastic_Bowl,Plastic,37,58,Polycarbonate/ABS
+OF2_0726,Glass_Bowl,Glass,92,12,Tempered Glass
+OF2_0727,Ceramic_Plate,Ceramic,83,36,Porcelain/China
+OF2_0728,Plastic_Knife,Plastic,43,61,Polycarbonate/ABS
+OF2_0729,Plastic_Plate,Plastic,41,64,Polycarbonate/ABS
+OF2_0730,Steel_Screwdriver,Steel,100,14,Stainless Steel/Iron
+OF2_0731,Plastic_ActionFigure,Plastic,46,63,Polycarbonate/ABS
+OF2_0732,Rubber_Block,Rubber,18,98,Soft Elastomer
+OF2_0733,Wood_ActionFigure,Wood,60,77,Hardwood/Oak
+OF2_0734,Steel_Fork,Steel,99,14,Stainless Steel/Iron
+OF2_0735,Ceramic_Mug,Ceramic,89,40,Porcelain/China
+OF2_0736,Wood_Ball,Wood,67,78,Hardwood/Oak
+OF2_0737,Ceramic_Plate,Ceramic,88,38,Porcelain/China
+OF2_0738,Steel_Fork,Steel,96,13,Stainless Steel/Iron
+OF2_0739,Steel_Vase,Steel,98,19,Stainless Steel/Iron
+OF2_0740,Steel_Wrench,Steel,93,11,Stainless Steel/Iron
+OF2_0741,Steel_Wrench,Steel,99,10,Stainless Steel/Iron
+OF2_0742,Steel_Screwdriver,Steel,96,19,Stainless Steel/Iron
+OF2_0743,Wood_Mirror,Wood,64,78,Hardwood/Oak
+OF2_0744,Ceramic_Bowl,Ceramic,87,40,Porcelain/China
+OF2_0745,Plastic_Block,Plastic,40,59,Polycarbonate/ABS
+OF2_0746,Steel_Hammer,Steel,96,16,Stainless Steel/Iron
+OF2_0747,Steel_Wrench,Steel,100,18,Stainless Steel/Iron
+OF2_0748,Plastic_Bowl,Plastic,40,62,Polycarbonate/ABS
+OF2_0749,Glass_Bowl,Glass,96,13,Tempered Glass
+OF2_0750,Steel_Spoon,Steel,94,15,Stainless Steel/Iron
+OF2_0751,Rubber_Block,Rubber,22,97,Soft Elastomer
+OF2_0752,Steel_Screwdriver,Steel,97,16,Stainless Steel/Iron
+OF2_0753,Plastic_Spoon,Plastic,44,58,Polycarbonate/ABS
+OF2_0754,Glass_Plate,Glass,90,8,Tempered Glass
+OF2_0755,Steel_Screwdriver,Steel,100,13,Stainless Steel/Iron
+OF2_0756,Steel_Fork,Steel,100,19,Stainless Steel/Iron
+OF2_0757,Steel_Screwdriver,Steel,100,17,Stainless Steel/Iron
+OF2_0758,Steel_Fork,Steel,93,10,Stainless Steel/Iron
+OF2_0759,Plastic_Fork,Plastic,38,56,Polycarbonate/ABS
+OF2_0760,Plastic_Fork,Plastic,41,64,Polycarbonate/ABS
+OF2_0761,Wood_Lamp,Wood,66,83,Hardwood/Oak
+OF2_0762,Steel_Knife,Steel,100,18,Stainless Steel/Iron
+OF2_0763,Steel_Wrench,Steel,98,14,Stainless Steel/Iron
+OF2_0764,Rubber_Vase,Rubber,22,96,Soft Elastomer
+OF2_0765,Steel_Hammer,Steel,99,11,Stainless Steel/Iron
+OF2_0766,Plastic_Fork,Plastic,38,55,Polycarbonate/ABS
+OF2_0767,Plastic_Mug,Plastic,37,55,Polycarbonate/ABS
+OF2_0768,Steel_Screwdriver,Steel,100,10,Stainless Steel/Iron
+OF2_0769,Steel_Screwdriver,Steel,100,11,Stainless Steel/Iron
+OF2_0770,Ceramic_Plate,Ceramic,88,38,Porcelain/China
+OF2_0771,Plastic_Plate,Plastic,39,60,Polycarbonate/ABS
+OF2_0772,Wood_Ball,Wood,69,84,Hardwood/Oak
+OF2_0773,Glass_Cup,Glass,90,13,Tempered Glass
+OF2_0774,Rubber_Mirror,Rubber,22,95,Soft Elastomer
+OF2_0775,Plastic_Knife,Plastic,44,62,Polycarbonate/ABS
+OF2_0776,Rubber_Vase,Rubber,21,97,Soft Elastomer
+OF2_0777,Plastic_Spoon,Plastic,38,59,Polycarbonate/ABS
+OF2_0778,Plastic_Fork,Plastic,37,55,Polycarbonate/ABS
+OF2_0779,Steel_Hammer,Steel,98,19,Stainless Steel/Iron
+OF2_0780,Steel_Wrench,Steel,96,13,Stainless Steel/Iron
+OF2_0781,Plastic_Knife,Plastic,46,63,Polycarbonate/ABS
+OF2_0782,Wood_Lamp,Wood,68,81,Hardwood/Oak
+OF2_0783,Rubber_Mirror,Rubber,16,94,Soft Elastomer
+OF2_0784,Steel_Hammer,Steel,99,16,Stainless Steel/Iron
+OF2_0785,Steel_Fork,Steel,100,10,Stainless Steel/Iron
+OF2_0786,Plastic_Lamp,Plastic,40,62,Polycarbonate/ABS
+OF2_0787,Rubber_Block,Rubber,13,91,Soft Elastomer
+OF2_0788,Steel_Spoon,Steel,100,16,Stainless Steel/Iron
+OF2_0789,Plastic_Block,Plastic,45,64,Polycarbonate/ABS
+OF2_0790,Steel_Spoon,Steel,97,16,Stainless Steel/Iron
+OF2_0791,Plastic_Bottle,Plastic,43,55,Polycarbonate/ABS
+OF2_0792,Glass_Cup,Glass,89,9,Tempered Glass
+OF2_0793,Steel_Hammer,Steel,93,10,Stainless Steel/Iron
+OF2_0794,Wood_Vase,Wood,68,77,Hardwood/Oak
+OF2_0795,Rubber_Vase,Rubber,22,92,Soft Elastomer
+OF2_0796,Ceramic_Plate,Ceramic,85,42,Porcelain/China
+OF2_0797,Steel_Hammer,Steel,94,18,Stainless Steel/Iron
+OF2_0798,Wood_ActionFigure,Wood,68,79,Hardwood/Oak
+OF2_0799,Rubber_ActionFigure,Rubber,16,98,Soft Elastomer
+OF2_0800,Plastic_Knife,Plastic,39,58,Polycarbonate/ABS
+OF2_0801,Steel_Screwdriver,Steel,94,15,Stainless Steel/Iron
+OF2_0802,Glass_Plate,Glass,94,14,Tempered Glass
+OF2_0803,Glass_Cup,Glass,90,11,Tempered Glass
+OF2_0804,Wood_ActionFigure,Wood,64,75,Hardwood/Oak
+OF2_0805,Plastic_Block,Plastic,44,56,Polycarbonate/ABS
+OF2_0806,Ceramic_Plate,Ceramic,83,39,Porcelain/China
+OF2_0807,Ceramic_Bowl,Ceramic,89,43,Porcelain/China
+OF2_0808,Rubber_Bottle,Rubber,18,95,Soft Elastomer
+OF2_0809,Wood_Ball,Wood,62,80,Hardwood/Oak
+OF2_0810,Steel_Wrench,Steel,100,12,Stainless Steel/Iron
+OF2_0811,Steel_Fork,Steel,98,16,Stainless Steel/Iron
+OF2_0812,Steel_Hammer,Steel,100,18,Stainless Steel/Iron
+OF2_0813,Plastic_ActionFigure,Plastic,41,60,Polycarbonate/ABS
+OF2_0814,Steel_Fork,Steel,96,15,Stainless Steel/Iron
+OF2_0815,Plastic_Spoon,Plastic,41,57,Polycarbonate/ABS
+OF2_0816,Ceramic_Plate,Ceramic,90,37,Porcelain/China
+OF2_0817,Rubber_Vase,Rubber,20,94,Soft Elastomer
+OF2_0818,Steel_Spoon,Steel,99,18,Stainless Steel/Iron
+OF2_0819,Steel_Fork,Steel,97,13,Stainless Steel/Iron
+OF2_0820,Plastic_Mirror,Plastic,44,56,Polycarbonate/ABS
+OF2_0821,Glass_Plate,Glass,89,12,Tempered Glass
+OF2_0822,Ceramic_Bowl,Ceramic,89,43,Porcelain/China
+OF2_0823,Rubber_Ball,Rubber,18,92,Soft Elastomer
+OF2_0824,Rubber_Ball,Rubber,21,95,Soft Elastomer
+OF2_0825,Plastic_Block,Plastic,39,56,Polycarbonate/ABS
+OF2_0826,Rubber_Block,Rubber,17,91,Soft Elastomer
+OF2_0827,Plastic_Block,Plastic,40,63,Polycarbonate/ABS
+OF2_0828,Glass_Mug,Glass,89,9,Tempered Glass
+OF2_0829,Rubber_Ball,Rubber,15,95,Soft Elastomer
+OF2_0830,Plastic_Block,Plastic,38,57,Polycarbonate/ABS
+OF2_0831,Ceramic_Bowl,Ceramic,91,38,Porcelain/China
+OF2_0832,Steel_Hammer,Steel,94,10,Stainless Steel/Iron
+OF2_0833,Ceramic_Plate,Ceramic,85,37,Porcelain/China
+OF2_0834,Plastic_Block,Plastic,41,64,Polycarbonate/ABS
+OF2_0835,Plastic_Lamp,Plastic,44,62,Polycarbonate/ABS
+OF2_0836,Ceramic_Bowl,Ceramic,84,38,Porcelain/China
+OF2_0837,Plastic_Bowl,Plastic,46,59,Polycarbonate/ABS
+OF2_0838,Steel_Hammer,Steel,100,16,Stainless Steel/Iron
+OF2_0839,Steel_Knife,Steel,97,10,Stainless Steel/Iron
+OF2_0840,Steel_Fork,Steel,97,13,Stainless Steel/Iron
+OF2_0841,Plastic_Plate,Plastic,39,60,Polycarbonate/ABS
+OF2_0842,Plastic_ActionFigure,Plastic,44,64,Polycarbonate/ABS
+OF2_0843,Wood_Block,Wood,67,78,Hardwood/Oak
+OF2_0844,Ceramic_Cup,Ceramic,88,39,Porcelain/China
+OF2_0845,Glass_Bowl,Glass,87,10,Tempered Glass
+OF2_0846,Steel_Vase,Steel,100,13,Stainless Steel/Iron
+OF2_0847,Steel_Hammer,Steel,99,10,Stainless Steel/Iron
+OF2_0848,Steel_Wrench,Steel,99,19,Stainless Steel/Iron
+OF2_0849,Steel_Vase,Steel,93,11,Stainless Steel/Iron
+OF2_0850,Steel_Vase,Steel,100,18,Stainless Steel/Iron
+OF2_0851,Steel_Screwdriver,Steel,99,18,Stainless Steel/Iron
+OF2_0852,Glass_Mirror,Glass,90,11,Tempered Glass
+OF2_0853,Glass_Bowl,Glass,94,9,Tempered Glass
+OF2_0854,Plastic_Cup,Plastic,46,63,Polycarbonate/ABS
+OF2_0855,Wood_Bottle,Wood,64,84,Hardwood/Oak
+OF2_0856,Steel_Hammer,Steel,98,15,Stainless Steel/Iron
+OF2_0857,Plastic_Ball,Plastic,42,59,Polycarbonate/ABS
+OF2_0858,Glass_Bowl,Glass,89,7,Tempered Glass
+OF2_0859,Steel_Hammer,Steel,100,12,Stainless Steel/Iron
+OF2_0860,Glass_Mug,Glass,91,12,Tempered Glass
+OF2_0861,Wood_Ball,Wood,66,77,Hardwood/Oak
+OF2_0862,Wood_Block,Wood,68,79,Hardwood/Oak
+OF2_0863,Steel_Wrench,Steel,93,15,Stainless Steel/Iron
+OF2_0864,Steel_Knife,Steel,96,14,Stainless Steel/Iron
+OF2_0865,Ceramic_Plate,Ceramic,90,36,Porcelain/China
+OF2_0866,Plastic_Ball,Plastic,45,60,Polycarbonate/ABS
+OF2_0867,Plastic_Vase,Plastic,43,63,Polycarbonate/ABS
+OF2_0868,Wood_Ball,Wood,68,83,Hardwood/Oak
+OF2_0869,Ceramic_Bowl,Ceramic,86,38,Porcelain/China
+OF2_0870,Steel_Spoon,Steel,99,13,Stainless Steel/Iron
+OF2_0871,Steel_Hammer,Steel,98,10,Stainless Steel/Iron
+OF2_0872,Steel_Wrench,Steel,97,11,Stainless Steel/Iron
+OF2_0873,Wood_ActionFigure,Wood,61,82,Hardwood/Oak
+OF2_0874,Plastic_Spoon,Plastic,37,60,Polycarbonate/ABS
+OF2_0875,Steel_Spoon,Steel,95,18,Stainless Steel/Iron
+OF2_0876,Steel_Wrench,Steel,99,10,Stainless Steel/Iron
+OF2_0877,Rubber_Block,Rubber,14,94,Soft Elastomer
+OF2_0878,Glass_Mug,Glass,90,14,Tempered Glass
+OF2_0879,Ceramic_Bottle,Ceramic,85,38,Porcelain/China
+OF2_0880,Plastic_Mirror,Plastic,37,56,Polycarbonate/ABS
+OF2_0881,Rubber_Block,Rubber,14,97,Soft Elastomer
+OF2_0882,Steel_Wrench,Steel,96,11,Stainless Steel/Iron
+OF2_0883,Steel_Screwdriver,Steel,93,10,Stainless Steel/Iron
+OF2_0884,Ceramic_Cup,Ceramic,84,37,Porcelain/China
+OF2_0885,Plastic_ActionFigure,Plastic,45,57,Polycarbonate/ABS
+OF2_0886,Glass_Mug,Glass,92,7,Tempered Glass
+OF2_0887,Plastic_Spoon,Plastic,45,57,Polycarbonate/ABS
+OF2_0888,Ceramic_Bottle,Ceramic,89,40,Porcelain/China
+OF2_0889,Steel_Screwdriver,Steel,100,11,Stainless Steel/Iron
+OF2_0890,Glass_Plate,Glass,96,14,Tempered Glass
+OF2_0891,Wood_ActionFigure,Wood,60,84,Hardwood/Oak
+OF2_0892,Plastic_Block,Plastic,45,63,Polycarbonate/ABS
+OF2_0893,Steel_Bottle,Steel,95,18,Stainless Steel/Iron
+OF2_0894,Steel_Wrench,Steel,99,12,Stainless Steel/Iron
+OF2_0895,Ceramic_Plate,Ceramic,92,43,Porcelain/China
+OF2_0896,Plastic_Mug,Plastic,38,57,Polycarbonate/ABS
+OF2_0897,Steel_Spoon,Steel,97,13,Stainless Steel/Iron
+OF2_0898,Wood_Vase,Wood,68,82,Hardwood/Oak
+OF2_0899,Rubber_Block,Rubber,15,91,Soft Elastomer
+OF2_0900,Ceramic_Mug,Ceramic,85,37,Porcelain/China
+OF2_0901,Rubber_Ball,Rubber,17,92,Soft Elastomer
+OF2_0902,Plastic_Bowl,Plastic,46,63,Polycarbonate/ABS
+OF2_0903,Plastic_Vase,Plastic,41,56,Polycarbonate/ABS
+OF2_0904,Steel_Knife,Steel,93,15,Stainless Steel/Iron
+OF2_0905,Plastic_Spoon,Plastic,41,64,Polycarbonate/ABS
+OF2_0906,Steel_Screwdriver,Steel,98,17,Stainless Steel/Iron
+OF2_0907,Rubber_ActionFigure,Rubber,13,93,Soft Elastomer
+OF2_0908,Steel_Hammer,Steel,97,16,Stainless Steel/Iron
+OF2_0909,Plastic_Bowl,Plastic,44,60,Polycarbonate/ABS
+OF2_0910,Steel_Hammer,Steel,97,17,Stainless Steel/Iron
+OF2_0911,Steel_Screwdriver,Steel,95,15,Stainless Steel/Iron
+OF2_0912,Plastic_Spoon,Plastic,46,58,Polycarbonate/ABS
+OF2_0913,Plastic_Cup,Plastic,45,59,Polycarbonate/ABS
+OF2_0914,Steel_Knife,Steel,98,10,Stainless Steel/Iron
+OF2_0915,Steel_Wrench,Steel,95,19,Stainless Steel/Iron
+OF2_0916,Ceramic_Mug,Ceramic,87,38,Porcelain/China
+OF2_0917,Ceramic_Plate,Ceramic,85,37,Porcelain/China
+OF2_0918,Steel_Hammer,Steel,99,12,Stainless Steel/Iron
+OF2_0919,Plastic_Mug,Plastic,39,61,Polycarbonate/ABS
+OF2_0920,Wood_ActionFigure,Wood,60,77,Hardwood/Oak
+OF2_0921,Ceramic_Plate,Ceramic,89,38,Porcelain/China
+OF2_0922,Ceramic_Plate,Ceramic,86,41,Porcelain/China
+OF2_0923,Rubber_Mirror,Rubber,22,91,Soft Elastomer
+OF2_0924,Glass_Bottle,Glass,92,9,Tempered Glass
+OF2_0925,Glass_Cup,Glass,96,5,Tempered Glass
+OF2_0926,Plastic_Spoon,Plastic,43,64,Polycarbonate/ABS
+OF2_0927,Glass_Mug,Glass,96,7,Tempered Glass
+OF2_0928,Steel_Spoon,Steel,99,16,Stainless Steel/Iron
+OF2_0929,Ceramic_Vase,Ceramic,92,36,Porcelain/China
+OF2_0930,Ceramic_Bowl,Ceramic,84,42,Porcelain/China
+OF2_0931,Plastic_Cup,Plastic,45,64,Polycarbonate/ABS
+OF2_0932,Plastic_Spoon,Plastic,40,64,Polycarbonate/ABS
+OF2_0933,Plastic_Cup,Plastic,43,56,Polycarbonate/ABS
+OF2_0934,Rubber_ActionFigure,Rubber,16,95,Soft Elastomer
+OF2_0935,Rubber_Vase,Rubber,17,97,Soft Elastomer
+OF2_0936,Steel_Wrench,Steel,96,18,Stainless Steel/Iron
+OF2_0937,Ceramic_Plate,Ceramic,86,39,Porcelain/China
+OF2_0938,Wood_Lamp,Wood,61,75,Hardwood/Oak
+OF2_0939,Plastic_Vase,Plastic,39,57,Polycarbonate/ABS
+OF2_0940,Plastic_Vase,Plastic,42,58,Polycarbonate/ABS
+OF2_0941,Rubber_ActionFigure,Rubber,22,92,Soft Elastomer
+OF2_0942,Steel_Vase,Steel,98,14,Stainless Steel/Iron
+OF2_0943,Plastic_Plate,Plastic,39,64,Polycarbonate/ABS
+OF2_0944,Plastic_Spoon,Plastic,41,60,Polycarbonate/ABS
+OF2_0945,Plastic_Knife,Plastic,40,55,Polycarbonate/ABS
+OF2_0946,Plastic_Knife,Plastic,37,56,Polycarbonate/ABS
+OF2_0947,Plastic_Bowl,Plastic,46,56,Polycarbonate/ABS
+OF2_0948,Steel_Wrench,Steel,100,18,Stainless Steel/Iron
+OF2_0949,Steel_Spoon,Steel,96,15,Stainless Steel/Iron
+OF2_0950,Rubber_Ball,Rubber,19,97,Soft Elastomer
+OF2_0951,Plastic_Fork,Plastic,46,60,Polycarbonate/ABS
+OF2_0952,Rubber_ActionFigure,Rubber,15,93,Soft Elastomer
+OF2_0953,Rubber_Lamp,Rubber,17,93,Soft Elastomer
+OF2_0954,Rubber_ActionFigure,Rubber,21,96,Soft Elastomer
+OF2_0955,Plastic_Plate,Plastic,42,61,Polycarbonate/ABS
+OF2_0956,Plastic_Fork,Plastic,37,59,Polycarbonate/ABS
+OF2_0957,Wood_Block,Wood,69,82,Hardwood/Oak
+OF2_0958,Rubber_ActionFigure,Rubber,13,96,Soft Elastomer
+OF2_0959,Glass_Plate,Glass,89,14,Tempered Glass
+OF2_0960,Plastic_Fork,Plastic,40,57,Polycarbonate/ABS
+OF2_0961,Plastic_Knife,Plastic,40,58,Polycarbonate/ABS
+OF2_0962,Steel_Screwdriver,Steel,100,12,Stainless Steel/Iron
+OF2_0963,Plastic_Spoon,Plastic,44,61,Polycarbonate/ABS
+OF2_0964,Ceramic_Plate,Ceramic,91,37,Porcelain/China
+OF2_0965,Steel_Spoon,Steel,98,10,Stainless Steel/Iron
+OF2_0966,Rubber_ActionFigure,Rubber,15,92,Soft Elastomer
+OF2_0967,Rubber_ActionFigure,Rubber,17,93,Soft Elastomer
+OF2_0968,Steel_Hammer,Steel,95,17,Stainless Steel/Iron
+OF2_0969,Steel_Fork,Steel,100,10,Stainless Steel/Iron
+OF2_0970,Steel_Wrench,Steel,100,12,Stainless Steel/Iron
+OF2_0971,Ceramic_Vase,Ceramic,90,38,Porcelain/China
+OF2_0972,Steel_Spoon,Steel,100,17,Stainless Steel/Iron
+OF2_0973,Ceramic_Plate,Ceramic,86,42,Porcelain/China
+OF2_0974,Ceramic_Bowl,Ceramic,87,36,Porcelain/China
+OF2_0975,Glass_Plate,Glass,90,8,Tempered Glass
+OF2_0976,Plastic_Bowl,Plastic,45,62,Polycarbonate/ABS
+OF2_0977,Plastic_Knife,Plastic,42,62,Polycarbonate/ABS
+OF2_0978,Steel_Bottle,Steel,100,15,Stainless Steel/Iron
+OF2_0979,Ceramic_Plate,Ceramic,91,35,Porcelain/China
+OF2_0980,Steel_Wrench,Steel,97,19,Stainless Steel/Iron
+OF2_0981,Steel_Hammer,Steel,93,16,Stainless Steel/Iron
+OF2_0982,Steel_Wrench,Steel,100,15,Stainless Steel/Iron
+OF2_0983,Steel_Wrench,Steel,94,13,Stainless Steel/Iron
+OF2_0984,Plastic_ActionFigure,Plastic,38,59,Polycarbonate/ABS
+OF2_0985,Plastic_Ball,Plastic,42,59,Polycarbonate/ABS
+OF2_0986,Steel_Knife,Steel,98,11,Stainless Steel/Iron
+OF2_0987,Rubber_ActionFigure,Rubber,21,95,Soft Elastomer
+OF2_0988,Ceramic_Bowl,Ceramic,92,35,Porcelain/China
+OF2_0989,Steel_Bottle,Steel,100,10,Stainless Steel/Iron
+OF2_0990,Wood_Ball,Wood,60,77,Hardwood/Oak
+OF2_0991,Ceramic_Cup,Ceramic,88,44,Porcelain/China
+OF2_0992,Rubber_ActionFigure,Rubber,18,98,Soft Elastomer
+OF2_0993,Wood_Bottle,Wood,65,76,Hardwood/Oak
+OF2_0994,Rubber_ActionFigure,Rubber,14,99,Soft Elastomer
+OF2_0995,Plastic_Spoon,Plastic,42,62,Polycarbonate/ABS
+OF2_0996,Plastic_Knife,Plastic,42,62,Polycarbonate/ABS
+OF2_0997,Plastic_ActionFigure,Plastic,41,58,Polycarbonate/ABS
+OF2_0998,Ceramic_Bottle,Ceramic,92,43,Porcelain/China
+OF2_0999,Plastic_Knife,Plastic,42,61,Polycarbonate/ABS
+OF2_1000,Ceramic_Mug,Ceramic,89,40,Porcelain/China
