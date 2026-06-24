@@ -1,11 +1,19 @@
 # UR3 and Hybrid Gripper
 
+![Robot](https://img.shields.io/badge/Robot-UR3-lightgrey)
+![Gripper](https://img.shields.io/badge/End--Effector-Hybrid%20Gripper-red)
+![Control](https://img.shields.io/badge/Control-Arm%20%2B%20Gripper-blue)
+![AI](https://img.shields.io/badge/Future-VLM%20Support-green)
+![Status](https://img.shields.io/badge/Focus-Manipulation-orange)
+
 Control framework for a **UR3 robot arm** integrated with a **hybrid gripper** for grasping, pick-and-place, and future intelligent manipulation support with **Vision-Language Models (VLMs)**.
+
+> **Highlight:** A compact manipulation framework for **UR3 + hybrid gripper coordination**, designed for **practical grasping experiments**, **task-level integration**, and future extension toward **AI-assisted robotic manipulation**.
 
 ## Overview of Hardware
 
 <p align="center">
-  <img src="images/Ur3_hybridgripper.jpg" width="300"/>
+  <img src="images/Ur3_hybridgripper.jpg" width="320"/>
 </p>
 <p align="center">
   <em>Real-world UR3 robot integrated with the hybrid gripper</em>
@@ -24,6 +32,23 @@ The repository is intended to support both:
 - **future research extensions**
 - **AI-assisted robotic manipulation workflows**
 
+### ✨ Main goals
+
+- **UR3 motion control**
+- **Hybrid gripper actuation**
+- **Coordinated arm-gripper manipulation**
+- **Future extension with vision and VLM support**
+
+```text
+System Goal:
+  UR3 arm control
+  + hybrid gripper control
+  + synchronized grasp execution
+  + future semantic perception support
+```
+
+> **Why this project matters:** it provides a clean starting point for combining **robot motion**, **adaptive grasping**, and **future semantic intelligence** in a single manipulation workflow.
+
 ---
 
 ## Core Focus
@@ -36,12 +61,13 @@ The main focus of this project includes:
 - **Task-oriented pick-and-place execution**
 - Future extension with **vision** and **VLM-based support**
 
+### 🎯 Focus summary
+
 ```text
-System Goal:
-  UR3 arm control
-  + hybrid gripper control
-  + synchronized grasp execution
-  + future semantic perception support
+- Move UR3 safely and precisely
+- Prepare and trigger the hybrid gripper
+- Execute synchronized grasp actions
+- Extend toward perception-guided manipulation
 ```
 
 ---
@@ -85,6 +111,8 @@ Main responsibilities:
 - Grasp execution and lift
 - Object transport and release
 
+> **Design idea:** the framework separates **robot control**, **gripper control**, and **task coordination**, making it easier to test, maintain, and extend.
+
 ---
 
 ## Typical Workflow
@@ -126,6 +154,8 @@ User Command / Task Input
  Transport / Release / Reset
 ```
 
+> **Pipeline highlight:** the project is built around **arm-gripper synchronization**, which is the key requirement for stable manipulation and grasp execution.
+
 This modular design makes the system easier to test, maintain, and expand.
 
 ---
@@ -152,6 +182,8 @@ Place the small box beside the container
 ```
 
 With a perception module, the VLM can help bridge the gap between **language instructions**, **scene understanding**, and **robot actions**.
+
+> **Future direction:** this repository can evolve from a classical robot-control project into a more complete **intelligent manipulation platform**.
 
 ---
 
@@ -182,7 +214,7 @@ Ur3_and_hybrid_gripper/
 - Suitable for robotics research and development
 ```
 
-Main strengths of this repository:
+### ✅ Strengths of this repository
 
 - Clear separation between robot control and gripper control
 - Easy integration of task logic for grasping experiments
