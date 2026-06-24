@@ -2,6 +2,15 @@
 
 Control framework for a **UR3 robot arm** integrated with a **hybrid gripper** for grasping, pick-and-place, and future intelligent manipulation support with **Vision-Language Models (VLMs)**.
 
+## Overview of Hardware
+
+<p align="center">
+  <img src="images/Ur3_hybridgripper.jpg" width="700"/>
+</p>
+<p align="center">
+  <em>Real-world UR3 robot integrated with the hybrid gripper</em>
+</p>
+
 ---
 
 ## Overview
@@ -221,4 +230,3 @@ This repository is designed as a base for combining:
 - **future semantic intelligence with VLM**
 
 It can be used as a practical starting point for building a more advanced robotic manipulation system.
-
