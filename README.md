@@ -5,7 +5,7 @@ Control framework for a **UR3 robot arm** integrated with a **hybrid gripper** f
 ## Overview of Hardware
 
 <p align="center">
-  <img src="images/Ur3_hybridgripper.jpg" width="700"/>
+  <img src="images/Ur3_hybridgripper.jpg" width="300"/>
 </p>
 <p align="center">
   <em>Real-world UR3 robot integrated with the hybrid gripper</em>
